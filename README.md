@@ -12,7 +12,9 @@ bash setup.sh
 
 ## 💪🏻 Training
 
-``bash run_scripts/run_grpo_lsvq.sh``
+```bash
+bash run_scripts/run_grpo_lsvq.sh
+```
 
 
 ### For your own data
