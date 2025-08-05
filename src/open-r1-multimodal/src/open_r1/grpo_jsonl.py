@@ -17,10 +17,8 @@ import sys
 import pathlib
 import random
 
-# 强制删除可能冲突的路径（防止优先加载错的包）
 sys.path = [p for p in sys.path if "VisualQuality-R1" not in p]
 
-# 添加你想要加载的 open_r1 所在路径
 sys.path.insert(0, "/dev/shm/code/VQAThinker/src/open-r1-multimodal/src")
 
 
@@ -1041,7 +1039,7 @@ def diversity_reward(completions, solution, **kwargs):
     sigma = kwargs.get("sigma", 0.5)
     alpha = kwargs.get("penalty_factor", 0.8)  # 小数位不足2位时的惩罚因子
 
-    # -------- 解析 Ground Truth --------
+    # -------- Ground Truth --------
     reshaped_solution = [solution[i:i + n_gen] for i in range(0, len(solution), n_gen)]
     for i in range(len(reshaped_solution)):
         for j in range(len(reshaped_solution[i])):
@@ -1053,7 +1051,6 @@ def diversity_reward(completions, solution, **kwargs):
             except:
                 reshaped_solution[i][j] = ground_truth
 
-    # -------- 解析预测内容 --------
     contents = [completion[0]["content"] for completion in completions]
     reshaped_content = [contents[i:i + n_gen] for i in range(0, len(contents), n_gen)]
 
@@ -1073,19 +1070,18 @@ def diversity_reward(completions, solution, **kwargs):
 
                 diff = abs(pred - gt)
 
-                # 奖励函数
                 reward = torch.exp(torch.tensor(- (diff ** 2) / (2 * sigma ** 2), device=device))
             else:
                 reward = 0.85
 
-            # 判断小数位数
+
             decimal_part = str(pred).split('.')[-1].rstrip('0') if '.' in str(pred) else ""
             if len(decimal_part) < 2:
                 reward = reward * alpha  # 惩罚预测粗糙
 
             rewards.append(reward)
 
-            # 可选调试日志记录
+
             if os.getenv("DEBUG_MODE") == "true":
                 log_path = os.getenv("LOG_PATH")
                 current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
@@ -1193,12 +1189,7 @@ def main(script_args, training_args, model_args):
         with open(data_file, 'r') as f:
             for line in f:
                 item = json.loads(line)
-                if item["dataset_name"] == "dis_video":
-                    image_folder = "/tos-bjml-researcheval/wenfarong/caolinhan/data/data/caolinhan_data/video_database/train_30w/videos/"
-                elif item["dataset_name"] == "dis_image":
-                    image_folder = "/dev/shm/data/mnt/nvme1n1/clh/train_10w/dis_image3/"
-                else:
-                    image_folder = "/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/"
+
                 if 'image' in item:
                     if isinstance(item['image'], str):
                         # Store image path instead of loading the image

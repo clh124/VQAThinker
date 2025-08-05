@@ -5,16 +5,19 @@
 ## 🛠️ Setup
 
 ```bash
-conda create -n vqathinker python=3.10
+conda create -n vqathinker python=3.11
 conda activate vqathinker
 bash setup.sh
 ```
 
 ## 💪🏻 Training
 
+First, replace the `modeling_internvl_chat.py` file under the `InternVL3-8B/` checkpoint directory with the one provided in the current directory.
+
+
 ```bash
 bash run_scripts/run_grpo_lsvq.sh
-```
+```bash
 
 
 ### For your own data

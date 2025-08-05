@@ -151,7 +151,7 @@ def apply_temporal_perturbation(pixel_values, mode="shuffle", window_size=4):
         return final_pixel_values
 
     elif mode == "random_drop":
-        n_drop = random.randint(1, 3)  # 随机选择 1 到 T/4 帧丢弃
+        n_drop = random.randint(1, 2)  # 随机选择 1 到 T/4 帧丢弃
         drop_indices = random.sample(range(T), n_drop)
         dropped_pixel_values = pixel_values.clone()
         for idx in drop_indices:

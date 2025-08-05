@@ -231,7 +231,7 @@ class InternVLChatModel(PreTrainedModel):
         B, N, C = input_embeds.shape
         input_embeds = input_embeds.reshape(B * N, C)
 
-        frames = pixel_values.view(B, int(vit_batch_size/B), 3, 480, 480)
+        frames = pixel_values.view(B, int(vit_batch_size/B), 3, 448, 448)
         # print("frames1", frames.shape)
         frames = frames.permute(0, 2, 1, 3, 4)
         # print("frames2", frames.shape)
@@ -501,7 +501,7 @@ class InternVLChatModel(PreTrainedModel):
             B, N, C = input_embeds.shape
             input_embeds = input_embeds.reshape(B * N, C)
 
-            frames = pixel_values.view(B, int(vit_batch_size/B), 3, 480, 480)
+            frames = pixel_values.view(B, int(vit_batch_size/B), 3, 448, 448)
             # print("frames1", frames.shape)
             frames = frames.permute(0, 2, 1, 3, 4)
             # print("frames2", frames.shape)
@@ -547,7 +547,6 @@ class InternVLChatModel(PreTrainedModel):
 
             input_ids = input_ids.reshape(B * N)
             count = selected.sum().item()
-            print("img_context_token_id 出现次数:", count)
             assert selected.sum() != 0
             # print("vit_embeds", vit_embeds.shape)
             # input_embeds[selected] = vit_embeds.reshape(-1, C).to(input_embeds.device)

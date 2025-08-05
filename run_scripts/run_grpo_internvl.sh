@@ -4,7 +4,7 @@ echo "REPO_HOME: $REPO_HOME"
 # on remote
 data_paths="/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/labels_train.jsonl" 
 image_folders="/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/"
-model_path="/dev/shm/InternVL3-8B-motion/"
+model_path="/dev/shm/InternVL3-8B/"
 is_reward_customized_from_vlm_module=False
 echo "data_paths: $data_paths"
 echo "image_folders: $image_folders"
