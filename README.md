@@ -17,7 +17,7 @@ First, replace the `modeling_internvl_chat.py` file under the `InternVL3-8B/` ch
 
 ```bash
 bash run_scripts/run_grpo_lsvq.sh
-```bash
+```
 
 
 ## For your own data
