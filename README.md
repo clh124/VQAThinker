@@ -58,12 +58,45 @@ bash setup.sh
 
 ## Quick Inference
 
-Single video quality evaluation:
+
+### 1. Download model weights
+
+You need to download the pre-trained model weights before running inference: [InternVL3-VQAThinker-8B](https://huggingface.co/kkkkkklinhan/InternVL3-VQAThinker-8B).
+
+
+The weights will be saved in the folder `InternVL3-VQAThinker-8B/`.
+
+---
+
+
+### 2. Single video quality evaluation
+
 ```shell
 python single_infer.py
 ```
 
-Batch videos quality evaluation:
+Before running, please modify the parameters in `single_infer.py`:
+
+- **MODEL_PATH** - set this to the directory containing the pre-trained weights.  
+- **video_path** - set this to the actual path of your test video.
+
+---
+
+
+### 3. Batch videos quality evaluation
+
 ```shell
 python batch_infer.py
 ```
+
+This script is used to evaluate the **10 datasets** reported in the paper.
+
+Before running, please modify the parameters in `batch_infer.py`:
+
+1. **MODEL_PATH** — set this to the directory containing the pre-trained weights.  
+2. **video_paths** — set this to the correct folder path containing the videos to be tested.  
+3. **json_prefix** — this folder should contain the meta JSON files for the 10 datasets to be evaluated.  
+4. **csv_output_folder** — set this to the folder where you want the results to be saved.  
+
+**Note:** The default `batch_size` is **16**, which requires **at least 48 GB of GPU memory** for testing.  
+Adjust `batch_size` according to your available GPU memory.

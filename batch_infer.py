@@ -141,14 +141,14 @@ def normalize_number(num_str):
         print(f"Error converting '{num_str}' to float: {e}")
         return None
 
-image_paths = [
+video_paths = [
             "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/KoNViD_1k/KoNViD_1k_videos/",
+            # "/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/",
+            # "/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/LIVE_VQC/Video/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/youtube_ugc/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/live_yt_gaming/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/cgvds/",
-            # "/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/",
-            # "/tos-bjml-researcheval/wenfarong/caolinhan/data/LSVQ/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/waterloo_ivc_4k/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/live_yt_hfr/",
             # "/tos-bjml-researcheval/wenfarong/caolinhan/data/test_data/VDPVE/"
@@ -159,19 +159,19 @@ image_paths = [
 json_prefix = 'json_files/'
 jsons = [
             json_prefix + "Konvid-1k_total_ds_score.json",
+            # json_prefix + "LSVQ_whole_test_ds_score.json",
+            # json_prefix + "LSVQ_whole_test_1080p_ds_score.json",
             # json_prefix + "LIVE-VQC_total_ds_score.json",
             # json_prefix + "youtube_ugc_total.json",
             # json_prefix + "LIVE-YT-Gaming_total_score.json",
             # json_prefix+ "CGVDS_total_score.json",
-            # json_prefix + "LSVQ_whole_test_ds_score.json",
-            # json_prefix + "LSVQ_whole_test_1080p_ds_score.json",
-            # json_prefix + "Waterloo_IVC_4K_total_score2.json",
+            # json_prefix + "Waterloo_IVC_4K_total_score.json",
             # json_prefix + "live_hfr_total_score.json",
             # json_prefix + "VDPVE_train_score.json",
         ]
 
 # 存放结果的 CSV 文件的文件夹
-csv_output_folder = "/dev/shm/internvl3_8B_lsvq_grpo_final_test_add_final/InternVL3-8B-checkpoint-250/results/"  # 修改为你希望存放 CSV 文件的文件夹
+csv_output_folder = ""  # 修改为你希望存放 CSV 文件的文件夹
 
 os.makedirs(csv_output_folder, exist_ok=True)
 
@@ -181,7 +181,7 @@ iqadata1=[]
 
 
 batch_size = 16
-for image_path, json_ in zip(image_paths, jsons):
+for image_path, json_ in zip(video_paths, jsons):
     with open(json_) as f:
         iqadata = json.load(f)
         pred_scores, gt_scores = [], []

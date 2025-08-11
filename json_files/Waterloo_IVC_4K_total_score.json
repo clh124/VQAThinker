@@ -1,0 +1,6004 @@
+{
+    "annotations": [
+        {
+            "image_id": "HEVC_01_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.21"
+        },
+        {
+            "image_id": "HEVC_01_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "39.46"
+        },
+        {
+            "image_id": "HEVC_01_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "50.23"
+        },
+        {
+            "image_id": "HEVC_01_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "77.26"
+        },
+        {
+            "image_id": "HEVC_01_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.61"
+        },
+        {
+            "image_id": "HEVC_01_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "25.98"
+        },
+        {
+            "image_id": "HEVC_01_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "52.29"
+        },
+        {
+            "image_id": "HEVC_01_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "71.7"
+        },
+        {
+            "image_id": "HEVC_01_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "20.19"
+        },
+        {
+            "image_id": "HEVC_01_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "41.13"
+        },
+        {
+            "image_id": "HEVC_01_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "61.84"
+        },
+        {
+            "image_id": "HEVC_01_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "79.82"
+        },
+        {
+            "image_id": "H264_01_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.41"
+        },
+        {
+            "image_id": "H264_01_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "44.31"
+        },
+        {
+            "image_id": "H264_01_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "65.09"
+        },
+        {
+            "image_id": "H264_01_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "78.76"
+        },
+        {
+            "image_id": "H264_01_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "13.07"
+        },
+        {
+            "image_id": "H264_01_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "32.79"
+        },
+        {
+            "image_id": "H264_01_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "52.97"
+        },
+        {
+            "image_id": "H264_01_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.17"
+        },
+        {
+            "image_id": "H264_01_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "9.78"
+        },
+        {
+            "image_id": "H264_01_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "32.52"
+        },
+        {
+            "image_id": "H264_01_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "53.6"
+        },
+        {
+            "image_id": "H264_01_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.01"
+        },
+        {
+            "image_id": "VP9_01_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "41.97"
+        },
+        {
+            "image_id": "VP9_01_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "56.72"
+        },
+        {
+            "image_id": "VP9_01_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "64.0"
+        },
+        {
+            "image_id": "VP9_01_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "76.55"
+        },
+        {
+            "image_id": "VP9_01_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "29.02"
+        },
+        {
+            "image_id": "VP9_01_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "57.26"
+        },
+        {
+            "image_id": "VP9_01_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "74.54"
+        },
+        {
+            "image_id": "VP9_01_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.28"
+        },
+        {
+            "image_id": "VP9_01_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "40.42"
+        },
+        {
+            "image_id": "VP9_01_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "43.29"
+        },
+        {
+            "image_id": "VP9_01_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "73.59"
+        },
+        {
+            "image_id": "VP9_01_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.46"
+        },
+        {
+            "image_id": "AVS2_01_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "19.88"
+        },
+        {
+            "image_id": "AVS2_01_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "46.61"
+        },
+        {
+            "image_id": "AVS2_01_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "54.3"
+        },
+        {
+            "image_id": "AVS2_01_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "76.84"
+        },
+        {
+            "image_id": "AVS2_01_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "10.0"
+        },
+        {
+            "image_id": "AVS2_01_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "21.64"
+        },
+        {
+            "image_id": "AVS2_01_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "68.73"
+        },
+        {
+            "image_id": "AVS2_01_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.01"
+        },
+        {
+            "image_id": "AVS2_01_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "26.24"
+        },
+        {
+            "image_id": "AVS2_01_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "37.72"
+        },
+        {
+            "image_id": "AVS2_01_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "56.78"
+        },
+        {
+            "image_id": "AVS2_01_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.46"
+        },
+        {
+            "image_id": "AV1_01_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "49.29"
+        },
+        {
+            "image_id": "AV1_01_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "68.37"
+        },
+        {
+            "image_id": "AV1_01_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "70.75"
+        },
+        {
+            "image_id": "AV1_01_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "76.37"
+        },
+        {
+            "image_id": "AV1_01_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "53.91"
+        },
+        {
+            "image_id": "AV1_01_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "76.77"
+        },
+        {
+            "image_id": "AV1_01_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "85.47"
+        },
+        {
+            "image_id": "AV1_01_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "86.85"
+        },
+        {
+            "image_id": "AV1_01_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "55.37"
+        },
+        {
+            "image_id": "AV1_01_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "70.7"
+        },
+        {
+            "image_id": "AV1_01_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "83.18"
+        },
+        {
+            "image_id": "AV1_01_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "86.13"
+        },
+        {
+            "image_id": "HEVC_02_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "31.13"
+        },
+        {
+            "image_id": "HEVC_02_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "45.03"
+        },
+        {
+            "image_id": "HEVC_02_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "47.79"
+        },
+        {
+            "image_id": "HEVC_02_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "53.02"
+        },
+        {
+            "image_id": "HEVC_02_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "21.54"
+        },
+        {
+            "image_id": "HEVC_02_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "44.5"
+        },
+        {
+            "image_id": "HEVC_02_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "65.74"
+        },
+        {
+            "image_id": "HEVC_02_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.54"
+        },
+        {
+            "image_id": "HEVC_02_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "50.93"
+        },
+        {
+            "image_id": "HEVC_02_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "67.79"
+        },
+        {
+            "image_id": "HEVC_02_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "81.55"
+        },
+        {
+            "image_id": "HEVC_02_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "83.7"
+        },
+        {
+            "image_id": "H264_02_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "5.78"
+        },
+        {
+            "image_id": "H264_02_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "30.68"
+        },
+        {
+            "image_id": "H264_02_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "52.35"
+        },
+        {
+            "image_id": "H264_02_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "52.77"
+        },
+        {
+            "image_id": "H264_02_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "9.13"
+        },
+        {
+            "image_id": "H264_02_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "35.8"
+        },
+        {
+            "image_id": "H264_02_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "45.29"
+        },
+        {
+            "image_id": "H264_02_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "72.47"
+        },
+        {
+            "image_id": "H264_02_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "19.71"
+        },
+        {
+            "image_id": "H264_02_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "41.19"
+        },
+        {
+            "image_id": "H264_02_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "63.85"
+        },
+        {
+            "image_id": "H264_02_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "72.65"
+        },
+        {
+            "image_id": "VP9_02_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "34.32"
+        },
+        {
+            "image_id": "VP9_02_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "49.57"
+        },
+        {
+            "image_id": "VP9_02_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "44.41"
+        },
+        {
+            "image_id": "VP9_02_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "59.24"
+        },
+        {
+            "image_id": "VP9_02_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "39.72"
+        },
+        {
+            "image_id": "VP9_02_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "65.79"
+        },
+        {
+            "image_id": "VP9_02_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "73.08"
+        },
+        {
+            "image_id": "VP9_02_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.77"
+        },
+        {
+            "image_id": "VP9_02_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "58.57"
+        },
+        {
+            "image_id": "VP9_02_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "72.26"
+        },
+        {
+            "image_id": "VP9_02_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "73.22"
+        },
+        {
+            "image_id": "VP9_02_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "86.3"
+        },
+        {
+            "image_id": "AVS2_02_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "44.54"
+        },
+        {
+            "image_id": "AVS2_02_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "47.59"
+        },
+        {
+            "image_id": "AVS2_02_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "46.57"
+        },
+        {
+            "image_id": "AVS2_02_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "49.92"
+        },
+        {
+            "image_id": "AVS2_02_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "51.63"
+        },
+        {
+            "image_id": "AVS2_02_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "74.22"
+        },
+        {
+            "image_id": "AVS2_02_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "81.69"
+        },
+        {
+            "image_id": "AVS2_02_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "80.78"
+        },
+        {
+            "image_id": "AVS2_02_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "77.52"
+        },
+        {
+            "image_id": "AVS2_02_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "83.99"
+        },
+        {
+            "image_id": "AVS2_02_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "84.53"
+        },
+        {
+            "image_id": "AVS2_02_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.49"
+        },
+        {
+            "image_id": "AV1_02_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "46.34"
+        },
+        {
+            "image_id": "AV1_02_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "61.71"
+        },
+        {
+            "image_id": "AV1_02_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "58.47"
+        },
+        {
+            "image_id": "AV1_02_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "59.99"
+        },
+        {
+            "image_id": "AV1_02_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "65.84"
+        },
+        {
+            "image_id": "AV1_02_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "80.57"
+        },
+        {
+            "image_id": "AV1_02_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "78.23"
+        },
+        {
+            "image_id": "AV1_02_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "86.81"
+        },
+        {
+            "image_id": "AV1_02_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "75.01"
+        },
+        {
+            "image_id": "AV1_02_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "79.91"
+        },
+        {
+            "image_id": "AV1_02_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "81.4"
+        },
+        {
+            "image_id": "AV1_02_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.05"
+        },
+        {
+            "image_id": "HEVC_03_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "16.72"
+        },
+        {
+            "image_id": "HEVC_03_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "39.24"
+        },
+        {
+            "image_id": "HEVC_03_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "51.05"
+        },
+        {
+            "image_id": "HEVC_03_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "73.62"
+        },
+        {
+            "image_id": "HEVC_03_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.31"
+        },
+        {
+            "image_id": "HEVC_03_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "22.92"
+        },
+        {
+            "image_id": "HEVC_03_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "57.87"
+        },
+        {
+            "image_id": "HEVC_03_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "73.65"
+        },
+        {
+            "image_id": "HEVC_03_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "20.82"
+        },
+        {
+            "image_id": "HEVC_03_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "46.67"
+        },
+        {
+            "image_id": "HEVC_03_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "57.49"
+        },
+        {
+            "image_id": "HEVC_03_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.49"
+        },
+        {
+            "image_id": "H264_03_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "13.42"
+        },
+        {
+            "image_id": "H264_03_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "35.01"
+        },
+        {
+            "image_id": "H264_03_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "55.48"
+        },
+        {
+            "image_id": "H264_03_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "72.55"
+        },
+        {
+            "image_id": "H264_03_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "10.43"
+        },
+        {
+            "image_id": "H264_03_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "29.1"
+        },
+        {
+            "image_id": "H264_03_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "44.29"
+        },
+        {
+            "image_id": "H264_03_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "73.99"
+        },
+        {
+            "image_id": "H264_03_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "13.32"
+        },
+        {
+            "image_id": "H264_03_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "32.46"
+        },
+        {
+            "image_id": "H264_03_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "48.49"
+        },
+        {
+            "image_id": "H264_03_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "65.12"
+        },
+        {
+            "image_id": "VP9_03_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "37.73"
+        },
+        {
+            "image_id": "VP9_03_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "54.8"
+        },
+        {
+            "image_id": "VP9_03_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "61.9"
+        },
+        {
+            "image_id": "VP9_03_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "76.63"
+        },
+        {
+            "image_id": "VP9_03_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "29.18"
+        },
+        {
+            "image_id": "VP9_03_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "52.32"
+        },
+        {
+            "image_id": "VP9_03_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "66.3"
+        },
+        {
+            "image_id": "VP9_03_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.86"
+        },
+        {
+            "image_id": "VP9_03_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "33.1"
+        },
+        {
+            "image_id": "VP9_03_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "46.45"
+        },
+        {
+            "image_id": "VP9_03_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "59.33"
+        },
+        {
+            "image_id": "VP9_03_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "84.45"
+        },
+        {
+            "image_id": "AVS2_03_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "20.19"
+        },
+        {
+            "image_id": "AVS2_03_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "40.61"
+        },
+        {
+            "image_id": "AVS2_03_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "46.15"
+        },
+        {
+            "image_id": "AVS2_03_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "70.56"
+        },
+        {
+            "image_id": "AVS2_03_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "15.88"
+        },
+        {
+            "image_id": "AVS2_03_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "33.84"
+        },
+        {
+            "image_id": "AVS2_03_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "54.08"
+        },
+        {
+            "image_id": "AVS2_03_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "79.46"
+        },
+        {
+            "image_id": "AVS2_03_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "35.97"
+        },
+        {
+            "image_id": "AVS2_03_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "43.72"
+        },
+        {
+            "image_id": "AVS2_03_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "59.07"
+        },
+        {
+            "image_id": "AVS2_03_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "79.69"
+        },
+        {
+            "image_id": "AV1_03_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "52.52"
+        },
+        {
+            "image_id": "AV1_03_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "68.19"
+        },
+        {
+            "image_id": "AV1_03_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "77.46"
+        },
+        {
+            "image_id": "AV1_03_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "74.25"
+        },
+        {
+            "image_id": "AV1_03_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "59.85"
+        },
+        {
+            "image_id": "AV1_03_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "85.97"
+        },
+        {
+            "image_id": "AV1_03_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "84.04"
+        },
+        {
+            "image_id": "AV1_03_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "90.3"
+        },
+        {
+            "image_id": "AV1_03_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "63.14"
+        },
+        {
+            "image_id": "AV1_03_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "84.59"
+        },
+        {
+            "image_id": "AV1_03_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "90.6"
+        },
+        {
+            "image_id": "AV1_03_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "97.59"
+        },
+        {
+            "image_id": "HEVC_04_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "11.47"
+        },
+        {
+            "image_id": "HEVC_04_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "48.56"
+        },
+        {
+            "image_id": "HEVC_04_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.63"
+        },
+        {
+            "image_id": "HEVC_04_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "71.74"
+        },
+        {
+            "image_id": "HEVC_04_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "9.27"
+        },
+        {
+            "image_id": "HEVC_04_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "24.99"
+        },
+        {
+            "image_id": "HEVC_04_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "56.09"
+        },
+        {
+            "image_id": "HEVC_04_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.11"
+        },
+        {
+            "image_id": "HEVC_04_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "17.95"
+        },
+        {
+            "image_id": "HEVC_04_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "35.31"
+        },
+        {
+            "image_id": "HEVC_04_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "58.69"
+        },
+        {
+            "image_id": "HEVC_04_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "74.88"
+        },
+        {
+            "image_id": "H264_04_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "13.55"
+        },
+        {
+            "image_id": "H264_04_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "33.85"
+        },
+        {
+            "image_id": "H264_04_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "59.73"
+        },
+        {
+            "image_id": "H264_04_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "75.16"
+        },
+        {
+            "image_id": "H264_04_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "10.99"
+        },
+        {
+            "image_id": "H264_04_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "31.27"
+        },
+        {
+            "image_id": "H264_04_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "48.5"
+        },
+        {
+            "image_id": "H264_04_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.33"
+        },
+        {
+            "image_id": "H264_04_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "5.92"
+        },
+        {
+            "image_id": "H264_04_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "26.94"
+        },
+        {
+            "image_id": "H264_04_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "50.24"
+        },
+        {
+            "image_id": "H264_04_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.67"
+        },
+        {
+            "image_id": "VP9_04_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "42.0"
+        },
+        {
+            "image_id": "VP9_04_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "63.93"
+        },
+        {
+            "image_id": "VP9_04_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "64.08"
+        },
+        {
+            "image_id": "VP9_04_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.55"
+        },
+        {
+            "image_id": "VP9_04_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "30.5"
+        },
+        {
+            "image_id": "VP9_04_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "58.91"
+        },
+        {
+            "image_id": "VP9_04_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "67.17"
+        },
+        {
+            "image_id": "VP9_04_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.48"
+        },
+        {
+            "image_id": "VP9_04_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "44.01"
+        },
+        {
+            "image_id": "VP9_04_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "48.81"
+        },
+        {
+            "image_id": "VP9_04_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "71.37"
+        },
+        {
+            "image_id": "VP9_04_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.01"
+        },
+        {
+            "image_id": "AVS2_04_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "31.23"
+        },
+        {
+            "image_id": "AVS2_04_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "51.31"
+        },
+        {
+            "image_id": "AVS2_04_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "59.9"
+        },
+        {
+            "image_id": "AVS2_04_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "73.76"
+        },
+        {
+            "image_id": "AVS2_04_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "16.86"
+        },
+        {
+            "image_id": "AVS2_04_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "36.57"
+        },
+        {
+            "image_id": "AVS2_04_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "62.17"
+        },
+        {
+            "image_id": "AVS2_04_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.97"
+        },
+        {
+            "image_id": "AVS2_04_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "28.65"
+        },
+        {
+            "image_id": "AVS2_04_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "49.93"
+        },
+        {
+            "image_id": "AVS2_04_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "58.82"
+        },
+        {
+            "image_id": "AVS2_04_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "76.53"
+        },
+        {
+            "image_id": "AV1_04_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "52.96"
+        },
+        {
+            "image_id": "AV1_04_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "63.62"
+        },
+        {
+            "image_id": "AV1_04_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "72.77"
+        },
+        {
+            "image_id": "AV1_04_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "81.88"
+        },
+        {
+            "image_id": "AV1_04_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "48.68"
+        },
+        {
+            "image_id": "AV1_04_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "75.64"
+        },
+        {
+            "image_id": "AV1_04_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "81.52"
+        },
+        {
+            "image_id": "AV1_04_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.9"
+        },
+        {
+            "image_id": "AV1_04_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "50.51"
+        },
+        {
+            "image_id": "AV1_04_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "64.64"
+        },
+        {
+            "image_id": "AV1_04_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "78.98"
+        },
+        {
+            "image_id": "AV1_04_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.12"
+        },
+        {
+            "image_id": "HEVC_05_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "17.08"
+        },
+        {
+            "image_id": "HEVC_05_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "31.0"
+        },
+        {
+            "image_id": "HEVC_05_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "33.69"
+        },
+        {
+            "image_id": "HEVC_05_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "39.76"
+        },
+        {
+            "image_id": "HEVC_05_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.22"
+        },
+        {
+            "image_id": "HEVC_05_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "26.39"
+        },
+        {
+            "image_id": "HEVC_05_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "48.92"
+        },
+        {
+            "image_id": "HEVC_05_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "74.1"
+        },
+        {
+            "image_id": "HEVC_05_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "23.53"
+        },
+        {
+            "image_id": "HEVC_05_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "57.11"
+        },
+        {
+            "image_id": "HEVC_05_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "65.96"
+        },
+        {
+            "image_id": "HEVC_05_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "77.59"
+        },
+        {
+            "image_id": "H264_05_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "7.28"
+        },
+        {
+            "image_id": "H264_05_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "27.01"
+        },
+        {
+            "image_id": "H264_05_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "42.5"
+        },
+        {
+            "image_id": "H264_05_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "42.13"
+        },
+        {
+            "image_id": "H264_05_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "12.65"
+        },
+        {
+            "image_id": "H264_05_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "33.91"
+        },
+        {
+            "image_id": "H264_05_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "48.54"
+        },
+        {
+            "image_id": "H264_05_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "66.3"
+        },
+        {
+            "image_id": "H264_05_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "23.1"
+        },
+        {
+            "image_id": "H264_05_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "45.03"
+        },
+        {
+            "image_id": "H264_05_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "62.88"
+        },
+        {
+            "image_id": "H264_05_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "79.7"
+        },
+        {
+            "image_id": "VP9_05_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "29.02"
+        },
+        {
+            "image_id": "VP9_05_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "34.25"
+        },
+        {
+            "image_id": "VP9_05_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "43.76"
+        },
+        {
+            "image_id": "VP9_05_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "48.82"
+        },
+        {
+            "image_id": "VP9_05_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "38.73"
+        },
+        {
+            "image_id": "VP9_05_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "63.87"
+        },
+        {
+            "image_id": "VP9_05_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "69.0"
+        },
+        {
+            "image_id": "VP9_05_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.47"
+        },
+        {
+            "image_id": "VP9_05_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "42.78"
+        },
+        {
+            "image_id": "VP9_05_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "65.35"
+        },
+        {
+            "image_id": "VP9_05_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "80.96"
+        },
+        {
+            "image_id": "VP9_05_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.01"
+        },
+        {
+            "image_id": "AVS2_05_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "5.63"
+        },
+        {
+            "image_id": "AVS2_05_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "22.37"
+        },
+        {
+            "image_id": "AVS2_05_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "25.11"
+        },
+        {
+            "image_id": "AVS2_05_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "36.26"
+        },
+        {
+            "image_id": "AVS2_05_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "15.75"
+        },
+        {
+            "image_id": "AVS2_05_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "31.31"
+        },
+        {
+            "image_id": "AVS2_05_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "55.57"
+        },
+        {
+            "image_id": "AVS2_05_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "62.44"
+        },
+        {
+            "image_id": "AVS2_05_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "36.6"
+        },
+        {
+            "image_id": "AVS2_05_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "59.19"
+        },
+        {
+            "image_id": "AVS2_05_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "63.19"
+        },
+        {
+            "image_id": "AVS2_05_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "80.06"
+        },
+        {
+            "image_id": "AV1_05_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "38.79"
+        },
+        {
+            "image_id": "AV1_05_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "45.72"
+        },
+        {
+            "image_id": "AV1_05_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "43.67"
+        },
+        {
+            "image_id": "AV1_05_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "42.98"
+        },
+        {
+            "image_id": "AV1_05_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "56.94"
+        },
+        {
+            "image_id": "AV1_05_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "75.12"
+        },
+        {
+            "image_id": "AV1_05_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "76.54"
+        },
+        {
+            "image_id": "AV1_05_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.13"
+        },
+        {
+            "image_id": "AV1_05_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "65.41"
+        },
+        {
+            "image_id": "AV1_05_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "89.82"
+        },
+        {
+            "image_id": "AV1_05_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "93.17"
+        },
+        {
+            "image_id": "AV1_05_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "90.09"
+        },
+        {
+            "image_id": "HEVC_06_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "17.58"
+        },
+        {
+            "image_id": "HEVC_06_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "31.53"
+        },
+        {
+            "image_id": "HEVC_06_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "39.81"
+        },
+        {
+            "image_id": "HEVC_06_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "59.93"
+        },
+        {
+            "image_id": "HEVC_06_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "3.78"
+        },
+        {
+            "image_id": "HEVC_06_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "25.34"
+        },
+        {
+            "image_id": "HEVC_06_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "62.97"
+        },
+        {
+            "image_id": "HEVC_06_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.89"
+        },
+        {
+            "image_id": "HEVC_06_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "26.61"
+        },
+        {
+            "image_id": "HEVC_06_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.55"
+        },
+        {
+            "image_id": "HEVC_06_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "72.63"
+        },
+        {
+            "image_id": "HEVC_06_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.97"
+        },
+        {
+            "image_id": "H264_06_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "12.89"
+        },
+        {
+            "image_id": "H264_06_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "35.76"
+        },
+        {
+            "image_id": "H264_06_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "48.61"
+        },
+        {
+            "image_id": "H264_06_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "61.63"
+        },
+        {
+            "image_id": "H264_06_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "14.1"
+        },
+        {
+            "image_id": "H264_06_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "44.33"
+        },
+        {
+            "image_id": "H264_06_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "61.27"
+        },
+        {
+            "image_id": "H264_06_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.92"
+        },
+        {
+            "image_id": "H264_06_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "26.42"
+        },
+        {
+            "image_id": "H264_06_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "59.55"
+        },
+        {
+            "image_id": "H264_06_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "79.13"
+        },
+        {
+            "image_id": "H264_06_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "79.03"
+        },
+        {
+            "image_id": "VP9_06_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "39.27"
+        },
+        {
+            "image_id": "VP9_06_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "42.52"
+        },
+        {
+            "image_id": "VP9_06_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "48.06"
+        },
+        {
+            "image_id": "VP9_06_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "54.86"
+        },
+        {
+            "image_id": "VP9_06_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "60.63"
+        },
+        {
+            "image_id": "VP9_06_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "63.64"
+        },
+        {
+            "image_id": "VP9_06_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "77.45"
+        },
+        {
+            "image_id": "VP9_06_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.38"
+        },
+        {
+            "image_id": "VP9_06_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "60.65"
+        },
+        {
+            "image_id": "VP9_06_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "78.23"
+        },
+        {
+            "image_id": "VP9_06_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "90.53"
+        },
+        {
+            "image_id": "VP9_06_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "80.62"
+        },
+        {
+            "image_id": "AVS2_06_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "8.21"
+        },
+        {
+            "image_id": "AVS2_06_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "31.54"
+        },
+        {
+            "image_id": "AVS2_06_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "33.96"
+        },
+        {
+            "image_id": "AVS2_06_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "55.08"
+        },
+        {
+            "image_id": "AVS2_06_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "12.51"
+        },
+        {
+            "image_id": "AVS2_06_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "23.28"
+        },
+        {
+            "image_id": "AVS2_06_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "51.2"
+        },
+        {
+            "image_id": "AVS2_06_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "75.75"
+        },
+        {
+            "image_id": "AVS2_06_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "54.88"
+        },
+        {
+            "image_id": "AVS2_06_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "69.29"
+        },
+        {
+            "image_id": "AVS2_06_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "65.49"
+        },
+        {
+            "image_id": "AVS2_06_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.17"
+        },
+        {
+            "image_id": "AV1_06_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "40.75"
+        },
+        {
+            "image_id": "AV1_06_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "54.13"
+        },
+        {
+            "image_id": "AV1_06_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "52.46"
+        },
+        {
+            "image_id": "AV1_06_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "55.03"
+        },
+        {
+            "image_id": "AV1_06_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "64.96"
+        },
+        {
+            "image_id": "AV1_06_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "80.69"
+        },
+        {
+            "image_id": "AV1_06_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "80.22"
+        },
+        {
+            "image_id": "AV1_06_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "86.13"
+        },
+        {
+            "image_id": "AV1_06_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "70.59"
+        },
+        {
+            "image_id": "AV1_06_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "90.26"
+        },
+        {
+            "image_id": "AV1_06_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "81.82"
+        },
+        {
+            "image_id": "AV1_06_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "92.77"
+        },
+        {
+            "image_id": "HEVC_07_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "21.72"
+        },
+        {
+            "image_id": "HEVC_07_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "42.42"
+        },
+        {
+            "image_id": "HEVC_07_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.44"
+        },
+        {
+            "image_id": "HEVC_07_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "75.47"
+        },
+        {
+            "image_id": "HEVC_07_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "9.12"
+        },
+        {
+            "image_id": "HEVC_07_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "31.32"
+        },
+        {
+            "image_id": "HEVC_07_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "66.16"
+        },
+        {
+            "image_id": "HEVC_07_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "79.77"
+        },
+        {
+            "image_id": "HEVC_07_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "20.25"
+        },
+        {
+            "image_id": "HEVC_07_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "47.48"
+        },
+        {
+            "image_id": "HEVC_07_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "64.33"
+        },
+        {
+            "image_id": "HEVC_07_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.11"
+        },
+        {
+            "image_id": "H264_07_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "13.79"
+        },
+        {
+            "image_id": "H264_07_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "41.22"
+        },
+        {
+            "image_id": "H264_07_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "63.29"
+        },
+        {
+            "image_id": "H264_07_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "77.64"
+        },
+        {
+            "image_id": "H264_07_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "6.65"
+        },
+        {
+            "image_id": "H264_07_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "24.8"
+        },
+        {
+            "image_id": "H264_07_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "47.55"
+        },
+        {
+            "image_id": "H264_07_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "71.77"
+        },
+        {
+            "image_id": "H264_07_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "3.3"
+        },
+        {
+            "image_id": "H264_07_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "23.75"
+        },
+        {
+            "image_id": "H264_07_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "49.36"
+        },
+        {
+            "image_id": "H264_07_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "70.64"
+        },
+        {
+            "image_id": "VP9_07_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "31.52"
+        },
+        {
+            "image_id": "VP9_07_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "54.11"
+        },
+        {
+            "image_id": "VP9_07_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "67.52"
+        },
+        {
+            "image_id": "VP9_07_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "84.4"
+        },
+        {
+            "image_id": "VP9_07_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "20.97"
+        },
+        {
+            "image_id": "VP9_07_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "49.62"
+        },
+        {
+            "image_id": "VP9_07_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "66.56"
+        },
+        {
+            "image_id": "VP9_07_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.61"
+        },
+        {
+            "image_id": "VP9_07_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "42.9"
+        },
+        {
+            "image_id": "VP9_07_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "43.31"
+        },
+        {
+            "image_id": "VP9_07_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "63.42"
+        },
+        {
+            "image_id": "VP9_07_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "85.72"
+        },
+        {
+            "image_id": "AVS2_07_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "27.13"
+        },
+        {
+            "image_id": "AVS2_07_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "51.86"
+        },
+        {
+            "image_id": "AVS2_07_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "70.8"
+        },
+        {
+            "image_id": "AVS2_07_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "80.03"
+        },
+        {
+            "image_id": "AVS2_07_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "15.14"
+        },
+        {
+            "image_id": "AVS2_07_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "35.34"
+        },
+        {
+            "image_id": "AVS2_07_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "67.24"
+        },
+        {
+            "image_id": "AVS2_07_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.88"
+        },
+        {
+            "image_id": "AVS2_07_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "28.54"
+        },
+        {
+            "image_id": "AVS2_07_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "55.13"
+        },
+        {
+            "image_id": "AVS2_07_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "76.01"
+        },
+        {
+            "image_id": "AVS2_07_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "76.43"
+        },
+        {
+            "image_id": "AV1_07_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "52.03"
+        },
+        {
+            "image_id": "AV1_07_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "73.54"
+        },
+        {
+            "image_id": "AV1_07_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "76.36"
+        },
+        {
+            "image_id": "AV1_07_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "81.93"
+        },
+        {
+            "image_id": "AV1_07_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "36.8"
+        },
+        {
+            "image_id": "AV1_07_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "67.74"
+        },
+        {
+            "image_id": "AV1_07_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "85.35"
+        },
+        {
+            "image_id": "AV1_07_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "89.43"
+        },
+        {
+            "image_id": "AV1_07_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "57.32"
+        },
+        {
+            "image_id": "AV1_07_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "61.22"
+        },
+        {
+            "image_id": "AV1_07_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "76.32"
+        },
+        {
+            "image_id": "AV1_07_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "91.19"
+        },
+        {
+            "image_id": "HEVC_08_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "7.13"
+        },
+        {
+            "image_id": "HEVC_08_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "26.87"
+        },
+        {
+            "image_id": "HEVC_08_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "37.24"
+        },
+        {
+            "image_id": "HEVC_08_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.54"
+        },
+        {
+            "image_id": "HEVC_08_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "6.1"
+        },
+        {
+            "image_id": "HEVC_08_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "14.06"
+        },
+        {
+            "image_id": "HEVC_08_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "39.32"
+        },
+        {
+            "image_id": "HEVC_08_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "75.9"
+        },
+        {
+            "image_id": "HEVC_08_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "17.11"
+        },
+        {
+            "image_id": "HEVC_08_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "28.23"
+        },
+        {
+            "image_id": "HEVC_08_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "54.92"
+        },
+        {
+            "image_id": "HEVC_08_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "78.11"
+        },
+        {
+            "image_id": "H264_08_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "4.73"
+        },
+        {
+            "image_id": "H264_08_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "23.42"
+        },
+        {
+            "image_id": "H264_08_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "48.99"
+        },
+        {
+            "image_id": "H264_08_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "65.43"
+        },
+        {
+            "image_id": "H264_08_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "3.61"
+        },
+        {
+            "image_id": "H264_08_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "19.73"
+        },
+        {
+            "image_id": "H264_08_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "37.56"
+        },
+        {
+            "image_id": "H264_08_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.17"
+        },
+        {
+            "image_id": "H264_08_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "5.06"
+        },
+        {
+            "image_id": "H264_08_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "28.68"
+        },
+        {
+            "image_id": "H264_08_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "48.66"
+        },
+        {
+            "image_id": "H264_08_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "80.2"
+        },
+        {
+            "image_id": "VP9_08_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "31.26"
+        },
+        {
+            "image_id": "VP9_08_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "43.68"
+        },
+        {
+            "image_id": "VP9_08_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "65.64"
+        },
+        {
+            "image_id": "VP9_08_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "72.85"
+        },
+        {
+            "image_id": "VP9_08_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "28.08"
+        },
+        {
+            "image_id": "VP9_08_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "66.51"
+        },
+        {
+            "image_id": "VP9_08_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "77.35"
+        },
+        {
+            "image_id": "VP9_08_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.61"
+        },
+        {
+            "image_id": "VP9_08_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "41.55"
+        },
+        {
+            "image_id": "VP9_08_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "63.44"
+        },
+        {
+            "image_id": "VP9_08_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "84.34"
+        },
+        {
+            "image_id": "VP9_08_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "92.65"
+        },
+        {
+            "image_id": "AVS2_08_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "13.73"
+        },
+        {
+            "image_id": "AVS2_08_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "26.78"
+        },
+        {
+            "image_id": "AVS2_08_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "42.86"
+        },
+        {
+            "image_id": "AVS2_08_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "66.26"
+        },
+        {
+            "image_id": "AVS2_08_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "10.78"
+        },
+        {
+            "image_id": "AVS2_08_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "20.32"
+        },
+        {
+            "image_id": "AVS2_08_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "46.99"
+        },
+        {
+            "image_id": "AVS2_08_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.02"
+        },
+        {
+            "image_id": "AVS2_08_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "25.84"
+        },
+        {
+            "image_id": "AVS2_08_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "34.69"
+        },
+        {
+            "image_id": "AVS2_08_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "48.66"
+        },
+        {
+            "image_id": "AVS2_08_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "70.23"
+        },
+        {
+            "image_id": "AV1_08_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "34.88"
+        },
+        {
+            "image_id": "AV1_08_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "56.63"
+        },
+        {
+            "image_id": "AV1_08_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "65.02"
+        },
+        {
+            "image_id": "AV1_08_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "72.09"
+        },
+        {
+            "image_id": "AV1_08_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "44.85"
+        },
+        {
+            "image_id": "AV1_08_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "80.16"
+        },
+        {
+            "image_id": "AV1_08_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "85.79"
+        },
+        {
+            "image_id": "AV1_08_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "91.74"
+        },
+        {
+            "image_id": "AV1_08_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "47.96"
+        },
+        {
+            "image_id": "AV1_08_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "80.31"
+        },
+        {
+            "image_id": "AV1_08_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "91.78"
+        },
+        {
+            "image_id": "AV1_08_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "92.06"
+        },
+        {
+            "image_id": "HEVC_09_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "23.91"
+        },
+        {
+            "image_id": "HEVC_09_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "41.1"
+        },
+        {
+            "image_id": "HEVC_09_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "43.52"
+        },
+        {
+            "image_id": "HEVC_09_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "49.42"
+        },
+        {
+            "image_id": "HEVC_09_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "11.25"
+        },
+        {
+            "image_id": "HEVC_09_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "37.45"
+        },
+        {
+            "image_id": "HEVC_09_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "66.43"
+        },
+        {
+            "image_id": "HEVC_09_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "70.57"
+        },
+        {
+            "image_id": "HEVC_09_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "36.14"
+        },
+        {
+            "image_id": "HEVC_09_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "50.56"
+        },
+        {
+            "image_id": "HEVC_09_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "63.91"
+        },
+        {
+            "image_id": "HEVC_09_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "83.99"
+        },
+        {
+            "image_id": "H264_09_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "7.11"
+        },
+        {
+            "image_id": "H264_09_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "30.67"
+        },
+        {
+            "image_id": "H264_09_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "44.34"
+        },
+        {
+            "image_id": "H264_09_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "56.08"
+        },
+        {
+            "image_id": "H264_09_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "14.73"
+        },
+        {
+            "image_id": "H264_09_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "32.57"
+        },
+        {
+            "image_id": "H264_09_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "49.21"
+        },
+        {
+            "image_id": "H264_09_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "73.83"
+        },
+        {
+            "image_id": "H264_09_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "18.14"
+        },
+        {
+            "image_id": "H264_09_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "47.37"
+        },
+        {
+            "image_id": "H264_09_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "61.71"
+        },
+        {
+            "image_id": "H264_09_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "74.85"
+        },
+        {
+            "image_id": "VP9_09_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "30.27"
+        },
+        {
+            "image_id": "VP9_09_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "39.69"
+        },
+        {
+            "image_id": "VP9_09_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "49.21"
+        },
+        {
+            "image_id": "VP9_09_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "55.5"
+        },
+        {
+            "image_id": "VP9_09_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "38.99"
+        },
+        {
+            "image_id": "VP9_09_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "68.09"
+        },
+        {
+            "image_id": "VP9_09_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "75.33"
+        },
+        {
+            "image_id": "VP9_09_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.38"
+        },
+        {
+            "image_id": "VP9_09_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "46.89"
+        },
+        {
+            "image_id": "VP9_09_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "63.07"
+        },
+        {
+            "image_id": "VP9_09_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "74.55"
+        },
+        {
+            "image_id": "VP9_09_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "78.99"
+        },
+        {
+            "image_id": "AVS2_09_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.69"
+        },
+        {
+            "image_id": "AVS2_09_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "24.74"
+        },
+        {
+            "image_id": "AVS2_09_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "40.06"
+        },
+        {
+            "image_id": "AVS2_09_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "49.12"
+        },
+        {
+            "image_id": "AVS2_09_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "25.61"
+        },
+        {
+            "image_id": "AVS2_09_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "40.81"
+        },
+        {
+            "image_id": "AVS2_09_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "54.92"
+        },
+        {
+            "image_id": "AVS2_09_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "73.37"
+        },
+        {
+            "image_id": "AVS2_09_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "47.24"
+        },
+        {
+            "image_id": "AVS2_09_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.05"
+        },
+        {
+            "image_id": "AVS2_09_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "64.7"
+        },
+        {
+            "image_id": "AVS2_09_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.87"
+        },
+        {
+            "image_id": "AV1_09_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "44.3"
+        },
+        {
+            "image_id": "AV1_09_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "53.25"
+        },
+        {
+            "image_id": "AV1_09_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "55.29"
+        },
+        {
+            "image_id": "AV1_09_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "63.4"
+        },
+        {
+            "image_id": "AV1_09_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "66.67"
+        },
+        {
+            "image_id": "AV1_09_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "75.71"
+        },
+        {
+            "image_id": "AV1_09_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "84.78"
+        },
+        {
+            "image_id": "AV1_09_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "85.1"
+        },
+        {
+            "image_id": "AV1_09_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "71.57"
+        },
+        {
+            "image_id": "AV1_09_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "75.29"
+        },
+        {
+            "image_id": "AV1_09_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "82.38"
+        },
+        {
+            "image_id": "AV1_09_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.25"
+        },
+        {
+            "image_id": "HEVC_10_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "20.22"
+        },
+        {
+            "image_id": "HEVC_10_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "46.43"
+        },
+        {
+            "image_id": "HEVC_10_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "55.93"
+        },
+        {
+            "image_id": "HEVC_10_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.2"
+        },
+        {
+            "image_id": "HEVC_10_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.74"
+        },
+        {
+            "image_id": "HEVC_10_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "37.84"
+        },
+        {
+            "image_id": "HEVC_10_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "65.21"
+        },
+        {
+            "image_id": "HEVC_10_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.7"
+        },
+        {
+            "image_id": "HEVC_10_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "23.46"
+        },
+        {
+            "image_id": "HEVC_10_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "48.54"
+        },
+        {
+            "image_id": "HEVC_10_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "64.51"
+        },
+        {
+            "image_id": "HEVC_10_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "77.3"
+        },
+        {
+            "image_id": "H264_10_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "8.84"
+        },
+        {
+            "image_id": "H264_10_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "36.15"
+        },
+        {
+            "image_id": "H264_10_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "60.85"
+        },
+        {
+            "image_id": "H264_10_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.22"
+        },
+        {
+            "image_id": "H264_10_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "8.02"
+        },
+        {
+            "image_id": "H264_10_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "27.85"
+        },
+        {
+            "image_id": "H264_10_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "58.77"
+        },
+        {
+            "image_id": "H264_10_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "72.86"
+        },
+        {
+            "image_id": "H264_10_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "8.66"
+        },
+        {
+            "image_id": "H264_10_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "34.78"
+        },
+        {
+            "image_id": "H264_10_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "44.96"
+        },
+        {
+            "image_id": "H264_10_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "72.55"
+        },
+        {
+            "image_id": "VP9_10_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "37.25"
+        },
+        {
+            "image_id": "VP9_10_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "56.89"
+        },
+        {
+            "image_id": "VP9_10_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "61.99"
+        },
+        {
+            "image_id": "VP9_10_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "68.48"
+        },
+        {
+            "image_id": "VP9_10_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "40.69"
+        },
+        {
+            "image_id": "VP9_10_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "61.49"
+        },
+        {
+            "image_id": "VP9_10_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "74.34"
+        },
+        {
+            "image_id": "VP9_10_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.76"
+        },
+        {
+            "image_id": "VP9_10_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "47.53"
+        },
+        {
+            "image_id": "VP9_10_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "60.92"
+        },
+        {
+            "image_id": "VP9_10_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "68.57"
+        },
+        {
+            "image_id": "VP9_10_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.91"
+        },
+        {
+            "image_id": "AVS2_10_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.68"
+        },
+        {
+            "image_id": "AVS2_10_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "40.1"
+        },
+        {
+            "image_id": "AVS2_10_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.55"
+        },
+        {
+            "image_id": "AVS2_10_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "60.6"
+        },
+        {
+            "image_id": "AVS2_10_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "12.96"
+        },
+        {
+            "image_id": "AVS2_10_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "29.66"
+        },
+        {
+            "image_id": "AVS2_10_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "55.1"
+        },
+        {
+            "image_id": "AVS2_10_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "70.14"
+        },
+        {
+            "image_id": "AVS2_10_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "35.85"
+        },
+        {
+            "image_id": "AVS2_10_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "44.41"
+        },
+        {
+            "image_id": "AVS2_10_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "58.35"
+        },
+        {
+            "image_id": "AVS2_10_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "77.33"
+        },
+        {
+            "image_id": "AV1_10_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "31.39"
+        },
+        {
+            "image_id": "AV1_10_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "50.14"
+        },
+        {
+            "image_id": "AV1_10_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "64.57"
+        },
+        {
+            "image_id": "AV1_10_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.03"
+        },
+        {
+            "image_id": "AV1_10_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "46.06"
+        },
+        {
+            "image_id": "AV1_10_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "73.86"
+        },
+        {
+            "image_id": "AV1_10_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "74.2"
+        },
+        {
+            "image_id": "AV1_10_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.6"
+        },
+        {
+            "image_id": "AV1_10_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "59.33"
+        },
+        {
+            "image_id": "AV1_10_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "69.37"
+        },
+        {
+            "image_id": "AV1_10_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "80.42"
+        },
+        {
+            "image_id": "AV1_10_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.94"
+        },
+        {
+            "image_id": "HEVC_11_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "10.07"
+        },
+        {
+            "image_id": "HEVC_11_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "35.84"
+        },
+        {
+            "image_id": "HEVC_11_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "54.51"
+        },
+        {
+            "image_id": "HEVC_11_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "75.71"
+        },
+        {
+            "image_id": "HEVC_11_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "1.91"
+        },
+        {
+            "image_id": "HEVC_11_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "22.01"
+        },
+        {
+            "image_id": "HEVC_11_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "58.42"
+        },
+        {
+            "image_id": "HEVC_11_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.97"
+        },
+        {
+            "image_id": "HEVC_11_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "21.51"
+        },
+        {
+            "image_id": "HEVC_11_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "41.48"
+        },
+        {
+            "image_id": "HEVC_11_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "70.78"
+        },
+        {
+            "image_id": "HEVC_11_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "85.51"
+        },
+        {
+            "image_id": "H264_11_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "6.59"
+        },
+        {
+            "image_id": "H264_11_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "33.56"
+        },
+        {
+            "image_id": "H264_11_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "64.97"
+        },
+        {
+            "image_id": "H264_11_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "75.05"
+        },
+        {
+            "image_id": "H264_11_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "3.38"
+        },
+        {
+            "image_id": "H264_11_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "21.82"
+        },
+        {
+            "image_id": "H264_11_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "43.47"
+        },
+        {
+            "image_id": "H264_11_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.78"
+        },
+        {
+            "image_id": "H264_11_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "3.8"
+        },
+        {
+            "image_id": "H264_11_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "18.02"
+        },
+        {
+            "image_id": "H264_11_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "47.7"
+        },
+        {
+            "image_id": "H264_11_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "78.43"
+        },
+        {
+            "image_id": "VP9_11_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "38.45"
+        },
+        {
+            "image_id": "VP9_11_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "56.71"
+        },
+        {
+            "image_id": "VP9_11_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "67.18"
+        },
+        {
+            "image_id": "VP9_11_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "73.09"
+        },
+        {
+            "image_id": "VP9_11_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "25.82"
+        },
+        {
+            "image_id": "VP9_11_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "58.51"
+        },
+        {
+            "image_id": "VP9_11_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "80.18"
+        },
+        {
+            "image_id": "VP9_11_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.87"
+        },
+        {
+            "image_id": "VP9_11_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "47.92"
+        },
+        {
+            "image_id": "VP9_11_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "59.06"
+        },
+        {
+            "image_id": "VP9_11_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "75.57"
+        },
+        {
+            "image_id": "VP9_11_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.99"
+        },
+        {
+            "image_id": "AVS2_11_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "16.97"
+        },
+        {
+            "image_id": "AVS2_11_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "41.84"
+        },
+        {
+            "image_id": "AVS2_11_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "61.74"
+        },
+        {
+            "image_id": "AVS2_11_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.84"
+        },
+        {
+            "image_id": "AVS2_11_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.91"
+        },
+        {
+            "image_id": "AVS2_11_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "24.25"
+        },
+        {
+            "image_id": "AVS2_11_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "63.97"
+        },
+        {
+            "image_id": "AVS2_11_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.96"
+        },
+        {
+            "image_id": "AVS2_11_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "34.94"
+        },
+        {
+            "image_id": "AVS2_11_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "49.25"
+        },
+        {
+            "image_id": "AVS2_11_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "73.78"
+        },
+        {
+            "image_id": "AVS2_11_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.28"
+        },
+        {
+            "image_id": "AV1_11_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "43.44"
+        },
+        {
+            "image_id": "AV1_11_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "67.8"
+        },
+        {
+            "image_id": "AV1_11_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "76.2"
+        },
+        {
+            "image_id": "AV1_11_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "80.21"
+        },
+        {
+            "image_id": "AV1_11_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "45.49"
+        },
+        {
+            "image_id": "AV1_11_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "76.07"
+        },
+        {
+            "image_id": "AV1_11_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "77.97"
+        },
+        {
+            "image_id": "AV1_11_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "89.89"
+        },
+        {
+            "image_id": "AV1_11_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "62.05"
+        },
+        {
+            "image_id": "AV1_11_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "75.25"
+        },
+        {
+            "image_id": "AV1_11_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "84.87"
+        },
+        {
+            "image_id": "AV1_11_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "91.95"
+        },
+        {
+            "image_id": "HEVC_12_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "22.85"
+        },
+        {
+            "image_id": "HEVC_12_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "44.66"
+        },
+        {
+            "image_id": "HEVC_12_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "52.32"
+        },
+        {
+            "image_id": "HEVC_12_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "73.82"
+        },
+        {
+            "image_id": "HEVC_12_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "8.65"
+        },
+        {
+            "image_id": "HEVC_12_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "26.3"
+        },
+        {
+            "image_id": "HEVC_12_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "56.08"
+        },
+        {
+            "image_id": "HEVC_12_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.69"
+        },
+        {
+            "image_id": "HEVC_12_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "16.65"
+        },
+        {
+            "image_id": "HEVC_12_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "45.98"
+        },
+        {
+            "image_id": "HEVC_12_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "64.16"
+        },
+        {
+            "image_id": "HEVC_12_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "77.83"
+        },
+        {
+            "image_id": "H264_12_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "9.5"
+        },
+        {
+            "image_id": "H264_12_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "35.85"
+        },
+        {
+            "image_id": "H264_12_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "58.14"
+        },
+        {
+            "image_id": "H264_12_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "77.41"
+        },
+        {
+            "image_id": "H264_12_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "9.11"
+        },
+        {
+            "image_id": "H264_12_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "32.77"
+        },
+        {
+            "image_id": "H264_12_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "47.19"
+        },
+        {
+            "image_id": "H264_12_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.91"
+        },
+        {
+            "image_id": "H264_12_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "13.52"
+        },
+        {
+            "image_id": "H264_12_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "36.07"
+        },
+        {
+            "image_id": "H264_12_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "61.18"
+        },
+        {
+            "image_id": "H264_12_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.7"
+        },
+        {
+            "image_id": "VP9_12_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "46.66"
+        },
+        {
+            "image_id": "VP9_12_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "62.84"
+        },
+        {
+            "image_id": "VP9_12_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "66.97"
+        },
+        {
+            "image_id": "VP9_12_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "77.76"
+        },
+        {
+            "image_id": "VP9_12_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "33.78"
+        },
+        {
+            "image_id": "VP9_12_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "62.41"
+        },
+        {
+            "image_id": "VP9_12_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "75.43"
+        },
+        {
+            "image_id": "VP9_12_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.76"
+        },
+        {
+            "image_id": "VP9_12_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "38.41"
+        },
+        {
+            "image_id": "VP9_12_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "53.27"
+        },
+        {
+            "image_id": "VP9_12_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "71.96"
+        },
+        {
+            "image_id": "VP9_12_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.82"
+        },
+        {
+            "image_id": "AVS2_12_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "11.02"
+        },
+        {
+            "image_id": "AVS2_12_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "27.5"
+        },
+        {
+            "image_id": "AVS2_12_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "43.02"
+        },
+        {
+            "image_id": "AVS2_12_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "73.09"
+        },
+        {
+            "image_id": "AVS2_12_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "15.28"
+        },
+        {
+            "image_id": "AVS2_12_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "23.15"
+        },
+        {
+            "image_id": "AVS2_12_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "38.46"
+        },
+        {
+            "image_id": "AVS2_12_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "64.93"
+        },
+        {
+            "image_id": "AVS2_12_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "32.23"
+        },
+        {
+            "image_id": "AVS2_12_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "43.63"
+        },
+        {
+            "image_id": "AVS2_12_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "49.08"
+        },
+        {
+            "image_id": "AVS2_12_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "63.58"
+        },
+        {
+            "image_id": "AV1_12_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "59.09"
+        },
+        {
+            "image_id": "AV1_12_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "72.46"
+        },
+        {
+            "image_id": "AV1_12_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "75.3"
+        },
+        {
+            "image_id": "AV1_12_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "83.07"
+        },
+        {
+            "image_id": "AV1_12_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "55.98"
+        },
+        {
+            "image_id": "AV1_12_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "72.56"
+        },
+        {
+            "image_id": "AV1_12_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "83.21"
+        },
+        {
+            "image_id": "AV1_12_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "87.37"
+        },
+        {
+            "image_id": "AV1_12_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "59.52"
+        },
+        {
+            "image_id": "AV1_12_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "65.47"
+        },
+        {
+            "image_id": "AV1_12_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "84.65"
+        },
+        {
+            "image_id": "AV1_12_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "91.87"
+        },
+        {
+            "image_id": "HEVC_13_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "16.3"
+        },
+        {
+            "image_id": "HEVC_13_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "41.31"
+        },
+        {
+            "image_id": "HEVC_13_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "53.06"
+        },
+        {
+            "image_id": "HEVC_13_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "54.96"
+        },
+        {
+            "image_id": "HEVC_13_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "0.74"
+        },
+        {
+            "image_id": "HEVC_13_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "30.29"
+        },
+        {
+            "image_id": "HEVC_13_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "69.62"
+        },
+        {
+            "image_id": "HEVC_13_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.39"
+        },
+        {
+            "image_id": "HEVC_13_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "12.96"
+        },
+        {
+            "image_id": "HEVC_13_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "50.88"
+        },
+        {
+            "image_id": "HEVC_13_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "78.41"
+        },
+        {
+            "image_id": "HEVC_13_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.82"
+        },
+        {
+            "image_id": "H264_13_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "17.85"
+        },
+        {
+            "image_id": "H264_13_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "37.53"
+        },
+        {
+            "image_id": "H264_13_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "49.26"
+        },
+        {
+            "image_id": "H264_13_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "54.72"
+        },
+        {
+            "image_id": "H264_13_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "8.78"
+        },
+        {
+            "image_id": "H264_13_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "41.68"
+        },
+        {
+            "image_id": "H264_13_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "65.3"
+        },
+        {
+            "image_id": "H264_13_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.66"
+        },
+        {
+            "image_id": "H264_13_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "8.68"
+        },
+        {
+            "image_id": "H264_13_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.43"
+        },
+        {
+            "image_id": "H264_13_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "82.03"
+        },
+        {
+            "image_id": "H264_13_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "86.34"
+        },
+        {
+            "image_id": "VP9_13_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "49.37"
+        },
+        {
+            "image_id": "VP9_13_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "58.56"
+        },
+        {
+            "image_id": "VP9_13_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "57.53"
+        },
+        {
+            "image_id": "VP9_13_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "54.74"
+        },
+        {
+            "image_id": "VP9_13_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "54.19"
+        },
+        {
+            "image_id": "VP9_13_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "79.16"
+        },
+        {
+            "image_id": "VP9_13_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "79.41"
+        },
+        {
+            "image_id": "VP9_13_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "86.09"
+        },
+        {
+            "image_id": "VP9_13_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "65.27"
+        },
+        {
+            "image_id": "VP9_13_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "80.07"
+        },
+        {
+            "image_id": "VP9_13_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "87.83"
+        },
+        {
+            "image_id": "VP9_13_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.88"
+        },
+        {
+            "image_id": "AVS2_13_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "15.71"
+        },
+        {
+            "image_id": "AVS2_13_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "49.76"
+        },
+        {
+            "image_id": "AVS2_13_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "53.61"
+        },
+        {
+            "image_id": "AVS2_13_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "58.22"
+        },
+        {
+            "image_id": "AVS2_13_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "12.86"
+        },
+        {
+            "image_id": "AVS2_13_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "33.06"
+        },
+        {
+            "image_id": "AVS2_13_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "67.36"
+        },
+        {
+            "image_id": "AVS2_13_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.06"
+        },
+        {
+            "image_id": "AVS2_13_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "53.51"
+        },
+        {
+            "image_id": "AVS2_13_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.24"
+        },
+        {
+            "image_id": "AVS2_13_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "75.43"
+        },
+        {
+            "image_id": "AVS2_13_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "77.15"
+        },
+        {
+            "image_id": "AV1_13_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "47.63"
+        },
+        {
+            "image_id": "AV1_13_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "52.95"
+        },
+        {
+            "image_id": "AV1_13_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "61.04"
+        },
+        {
+            "image_id": "AV1_13_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "61.9"
+        },
+        {
+            "image_id": "AV1_13_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "62.13"
+        },
+        {
+            "image_id": "AV1_13_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "83.66"
+        },
+        {
+            "image_id": "AV1_13_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "81.03"
+        },
+        {
+            "image_id": "AV1_13_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.09"
+        },
+        {
+            "image_id": "AV1_13_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "76.05"
+        },
+        {
+            "image_id": "AV1_13_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "85.59"
+        },
+        {
+            "image_id": "AV1_13_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "87.77"
+        },
+        {
+            "image_id": "AV1_13_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "86.87"
+        },
+        {
+            "image_id": "HEVC_14_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "16.68"
+        },
+        {
+            "image_id": "HEVC_14_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "32.84"
+        },
+        {
+            "image_id": "HEVC_14_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "44.43"
+        },
+        {
+            "image_id": "HEVC_14_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "61.32"
+        },
+        {
+            "image_id": "HEVC_14_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "3.17"
+        },
+        {
+            "image_id": "HEVC_14_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "31.4"
+        },
+        {
+            "image_id": "HEVC_14_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "67.38"
+        },
+        {
+            "image_id": "HEVC_14_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "80.06"
+        },
+        {
+            "image_id": "HEVC_14_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "32.86"
+        },
+        {
+            "image_id": "HEVC_14_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "57.63"
+        },
+        {
+            "image_id": "HEVC_14_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "75.04"
+        },
+        {
+            "image_id": "HEVC_14_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "85.57"
+        },
+        {
+            "image_id": "H264_14_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "8.94"
+        },
+        {
+            "image_id": "H264_14_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "32.33"
+        },
+        {
+            "image_id": "H264_14_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.03"
+        },
+        {
+            "image_id": "H264_14_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "60.53"
+        },
+        {
+            "image_id": "H264_14_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "7.29"
+        },
+        {
+            "image_id": "H264_14_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "26.16"
+        },
+        {
+            "image_id": "H264_14_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "53.59"
+        },
+        {
+            "image_id": "H264_14_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "71.62"
+        },
+        {
+            "image_id": "H264_14_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "18.06"
+        },
+        {
+            "image_id": "H264_14_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "46.15"
+        },
+        {
+            "image_id": "H264_14_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "64.29"
+        },
+        {
+            "image_id": "H264_14_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "83.45"
+        },
+        {
+            "image_id": "VP9_14_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "47.06"
+        },
+        {
+            "image_id": "VP9_14_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "55.09"
+        },
+        {
+            "image_id": "VP9_14_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "58.94"
+        },
+        {
+            "image_id": "VP9_14_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "67.85"
+        },
+        {
+            "image_id": "VP9_14_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "63.39"
+        },
+        {
+            "image_id": "VP9_14_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "80.44"
+        },
+        {
+            "image_id": "VP9_14_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "85.62"
+        },
+        {
+            "image_id": "VP9_14_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "85.58"
+        },
+        {
+            "image_id": "VP9_14_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "74.44"
+        },
+        {
+            "image_id": "VP9_14_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "81.57"
+        },
+        {
+            "image_id": "VP9_14_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "91.2"
+        },
+        {
+            "image_id": "VP9_14_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "93.02"
+        },
+        {
+            "image_id": "AVS2_14_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "21.19"
+        },
+        {
+            "image_id": "AVS2_14_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "38.64"
+        },
+        {
+            "image_id": "AVS2_14_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "49.94"
+        },
+        {
+            "image_id": "AVS2_14_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "64.13"
+        },
+        {
+            "image_id": "AVS2_14_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "22.07"
+        },
+        {
+            "image_id": "AVS2_14_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "38.45"
+        },
+        {
+            "image_id": "AVS2_14_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "69.56"
+        },
+        {
+            "image_id": "AVS2_14_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.69"
+        },
+        {
+            "image_id": "AVS2_14_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "66.42"
+        },
+        {
+            "image_id": "AVS2_14_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "69.63"
+        },
+        {
+            "image_id": "AVS2_14_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "74.83"
+        },
+        {
+            "image_id": "AVS2_14_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "86.91"
+        },
+        {
+            "image_id": "AV1_14_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "53.17"
+        },
+        {
+            "image_id": "AV1_14_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "60.27"
+        },
+        {
+            "image_id": "AV1_14_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "61.4"
+        },
+        {
+            "image_id": "AV1_14_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "67.85"
+        },
+        {
+            "image_id": "AV1_14_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "70.96"
+        },
+        {
+            "image_id": "AV1_14_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "83.6"
+        },
+        {
+            "image_id": "AV1_14_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "86.12"
+        },
+        {
+            "image_id": "AV1_14_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "89.9"
+        },
+        {
+            "image_id": "AV1_14_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "85.86"
+        },
+        {
+            "image_id": "AV1_14_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "88.15"
+        },
+        {
+            "image_id": "AV1_14_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "93.34"
+        },
+        {
+            "image_id": "AV1_14_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "92.16"
+        },
+        {
+            "image_id": "HEVC_15_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "11.07"
+        },
+        {
+            "image_id": "HEVC_15_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "42.27"
+        },
+        {
+            "image_id": "HEVC_15_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "51.73"
+        },
+        {
+            "image_id": "HEVC_15_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "66.02"
+        },
+        {
+            "image_id": "HEVC_15_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "3.5"
+        },
+        {
+            "image_id": "HEVC_15_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "21.49"
+        },
+        {
+            "image_id": "HEVC_15_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "52.65"
+        },
+        {
+            "image_id": "HEVC_15_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "75.0"
+        },
+        {
+            "image_id": "HEVC_15_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "17.84"
+        },
+        {
+            "image_id": "HEVC_15_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "43.85"
+        },
+        {
+            "image_id": "HEVC_15_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "53.73"
+        },
+        {
+            "image_id": "HEVC_15_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "74.31"
+        },
+        {
+            "image_id": "H264_15_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "9.53"
+        },
+        {
+            "image_id": "H264_15_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "33.88"
+        },
+        {
+            "image_id": "H264_15_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "49.16"
+        },
+        {
+            "image_id": "H264_15_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "68.99"
+        },
+        {
+            "image_id": "H264_15_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "5.55"
+        },
+        {
+            "image_id": "H264_15_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "25.41"
+        },
+        {
+            "image_id": "H264_15_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "35.85"
+        },
+        {
+            "image_id": "H264_15_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "65.8"
+        },
+        {
+            "image_id": "H264_15_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "9.45"
+        },
+        {
+            "image_id": "H264_15_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "21.12"
+        },
+        {
+            "image_id": "H264_15_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "30.56"
+        },
+        {
+            "image_id": "H264_15_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "65.77"
+        },
+        {
+            "image_id": "VP9_15_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "30.17"
+        },
+        {
+            "image_id": "VP9_15_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "44.58"
+        },
+        {
+            "image_id": "VP9_15_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "50.02"
+        },
+        {
+            "image_id": "VP9_15_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "66.96"
+        },
+        {
+            "image_id": "VP9_15_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "27.06"
+        },
+        {
+            "image_id": "VP9_15_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "45.9"
+        },
+        {
+            "image_id": "VP9_15_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "65.15"
+        },
+        {
+            "image_id": "VP9_15_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "79.21"
+        },
+        {
+            "image_id": "VP9_15_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "36.25"
+        },
+        {
+            "image_id": "VP9_15_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "51.1"
+        },
+        {
+            "image_id": "VP9_15_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "68.4"
+        },
+        {
+            "image_id": "VP9_15_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.89"
+        },
+        {
+            "image_id": "AVS2_15_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "19.21"
+        },
+        {
+            "image_id": "AVS2_15_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "44.77"
+        },
+        {
+            "image_id": "AVS2_15_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "65.74"
+        },
+        {
+            "image_id": "AVS2_15_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "69.85"
+        },
+        {
+            "image_id": "AVS2_15_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "10.37"
+        },
+        {
+            "image_id": "AVS2_15_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "27.86"
+        },
+        {
+            "image_id": "AVS2_15_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "68.45"
+        },
+        {
+            "image_id": "AVS2_15_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.1"
+        },
+        {
+            "image_id": "AVS2_15_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "28.75"
+        },
+        {
+            "image_id": "AVS2_15_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "37.17"
+        },
+        {
+            "image_id": "AVS2_15_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "59.57"
+        },
+        {
+            "image_id": "AVS2_15_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.47"
+        },
+        {
+            "image_id": "AV1_15_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "37.29"
+        },
+        {
+            "image_id": "AV1_15_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "46.42"
+        },
+        {
+            "image_id": "AV1_15_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "67.93"
+        },
+        {
+            "image_id": "AV1_15_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "76.88"
+        },
+        {
+            "image_id": "AV1_15_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "25.84"
+        },
+        {
+            "image_id": "AV1_15_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "65.23"
+        },
+        {
+            "image_id": "AV1_15_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "72.29"
+        },
+        {
+            "image_id": "AV1_15_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.4"
+        },
+        {
+            "image_id": "AV1_15_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "56.13"
+        },
+        {
+            "image_id": "AV1_15_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "60.64"
+        },
+        {
+            "image_id": "AV1_15_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "82.76"
+        },
+        {
+            "image_id": "AV1_15_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "89.19"
+        },
+        {
+            "image_id": "HEVC_16_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "9.49"
+        },
+        {
+            "image_id": "HEVC_16_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "32.53"
+        },
+        {
+            "image_id": "HEVC_16_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "36.32"
+        },
+        {
+            "image_id": "HEVC_16_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "64.52"
+        },
+        {
+            "image_id": "HEVC_16_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "5.81"
+        },
+        {
+            "image_id": "HEVC_16_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "23.27"
+        },
+        {
+            "image_id": "HEVC_16_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "57.63"
+        },
+        {
+            "image_id": "HEVC_16_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "79.68"
+        },
+        {
+            "image_id": "HEVC_16_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "29.46"
+        },
+        {
+            "image_id": "HEVC_16_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "37.37"
+        },
+        {
+            "image_id": "HEVC_16_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "67.04"
+        },
+        {
+            "image_id": "HEVC_16_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "78.01"
+        },
+        {
+            "image_id": "H264_16_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "5.72"
+        },
+        {
+            "image_id": "H264_16_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "19.89"
+        },
+        {
+            "image_id": "H264_16_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "47.6"
+        },
+        {
+            "image_id": "H264_16_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "60.22"
+        },
+        {
+            "image_id": "H264_16_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "5.95"
+        },
+        {
+            "image_id": "H264_16_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "22.48"
+        },
+        {
+            "image_id": "H264_16_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "43.0"
+        },
+        {
+            "image_id": "H264_16_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "73.64"
+        },
+        {
+            "image_id": "H264_16_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "12.4"
+        },
+        {
+            "image_id": "H264_16_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "33.02"
+        },
+        {
+            "image_id": "H264_16_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "53.49"
+        },
+        {
+            "image_id": "H264_16_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "80.97"
+        },
+        {
+            "image_id": "VP9_16_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "37.86"
+        },
+        {
+            "image_id": "VP9_16_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "51.62"
+        },
+        {
+            "image_id": "VP9_16_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "62.16"
+        },
+        {
+            "image_id": "VP9_16_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "68.08"
+        },
+        {
+            "image_id": "VP9_16_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "32.4"
+        },
+        {
+            "image_id": "VP9_16_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "66.09"
+        },
+        {
+            "image_id": "VP9_16_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "78.02"
+        },
+        {
+            "image_id": "VP9_16_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.47"
+        },
+        {
+            "image_id": "VP9_16_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "45.29"
+        },
+        {
+            "image_id": "VP9_16_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "62.71"
+        },
+        {
+            "image_id": "VP9_16_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "81.29"
+        },
+        {
+            "image_id": "VP9_16_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.07"
+        },
+        {
+            "image_id": "AVS2_16_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "14.58"
+        },
+        {
+            "image_id": "AVS2_16_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "36.54"
+        },
+        {
+            "image_id": "AVS2_16_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "52.1"
+        },
+        {
+            "image_id": "AVS2_16_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "63.88"
+        },
+        {
+            "image_id": "AVS2_16_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "20.52"
+        },
+        {
+            "image_id": "AVS2_16_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "34.2"
+        },
+        {
+            "image_id": "AVS2_16_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "63.55"
+        },
+        {
+            "image_id": "AVS2_16_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "80.62"
+        },
+        {
+            "image_id": "AVS2_16_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "43.46"
+        },
+        {
+            "image_id": "AVS2_16_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "52.39"
+        },
+        {
+            "image_id": "AVS2_16_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "68.64"
+        },
+        {
+            "image_id": "AVS2_16_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.98"
+        },
+        {
+            "image_id": "AV1_16_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "43.93"
+        },
+        {
+            "image_id": "AV1_16_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "59.79"
+        },
+        {
+            "image_id": "AV1_16_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "59.52"
+        },
+        {
+            "image_id": "AV1_16_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "71.26"
+        },
+        {
+            "image_id": "AV1_16_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "65.81"
+        },
+        {
+            "image_id": "AV1_16_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "83.67"
+        },
+        {
+            "image_id": "AV1_16_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "86.57"
+        },
+        {
+            "image_id": "AV1_16_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "87.94"
+        },
+        {
+            "image_id": "AV1_16_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "69.11"
+        },
+        {
+            "image_id": "AV1_16_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "84.54"
+        },
+        {
+            "image_id": "AV1_16_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "87.2"
+        },
+        {
+            "image_id": "AV1_16_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "90.91"
+        },
+        {
+            "image_id": "HEVC_17_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "12.79"
+        },
+        {
+            "image_id": "HEVC_17_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "31.29"
+        },
+        {
+            "image_id": "HEVC_17_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "44.17"
+        },
+        {
+            "image_id": "HEVC_17_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "62.77"
+        },
+        {
+            "image_id": "HEVC_17_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "8.71"
+        },
+        {
+            "image_id": "HEVC_17_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "27.66"
+        },
+        {
+            "image_id": "HEVC_17_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "51.91"
+        },
+        {
+            "image_id": "HEVC_17_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "74.3"
+        },
+        {
+            "image_id": "HEVC_17_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "25.94"
+        },
+        {
+            "image_id": "HEVC_17_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "46.34"
+        },
+        {
+            "image_id": "HEVC_17_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "68.96"
+        },
+        {
+            "image_id": "HEVC_17_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "83.11"
+        },
+        {
+            "image_id": "H264_17_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "19.94"
+        },
+        {
+            "image_id": "H264_17_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "34.32"
+        },
+        {
+            "image_id": "H264_17_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "46.51"
+        },
+        {
+            "image_id": "H264_17_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "60.42"
+        },
+        {
+            "image_id": "H264_17_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "16.15"
+        },
+        {
+            "image_id": "H264_17_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "30.96"
+        },
+        {
+            "image_id": "H264_17_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "49.99"
+        },
+        {
+            "image_id": "H264_17_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.51"
+        },
+        {
+            "image_id": "H264_17_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "21.36"
+        },
+        {
+            "image_id": "H264_17_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "42.91"
+        },
+        {
+            "image_id": "H264_17_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "72.29"
+        },
+        {
+            "image_id": "H264_17_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.49"
+        },
+        {
+            "image_id": "VP9_17_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "37.04"
+        },
+        {
+            "image_id": "VP9_17_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "50.39"
+        },
+        {
+            "image_id": "VP9_17_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.67"
+        },
+        {
+            "image_id": "VP9_17_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "61.24"
+        },
+        {
+            "image_id": "VP9_17_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "30.43"
+        },
+        {
+            "image_id": "VP9_17_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "62.09"
+        },
+        {
+            "image_id": "VP9_17_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "76.87"
+        },
+        {
+            "image_id": "VP9_17_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.37"
+        },
+        {
+            "image_id": "VP9_17_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "37.87"
+        },
+        {
+            "image_id": "VP9_17_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.54"
+        },
+        {
+            "image_id": "VP9_17_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "69.48"
+        },
+        {
+            "image_id": "VP9_17_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.02"
+        },
+        {
+            "image_id": "AVS2_17_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "6.27"
+        },
+        {
+            "image_id": "AVS2_17_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "15.22"
+        },
+        {
+            "image_id": "AVS2_17_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "20.66"
+        },
+        {
+            "image_id": "AVS2_17_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "41.57"
+        },
+        {
+            "image_id": "AVS2_17_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "16.39"
+        },
+        {
+            "image_id": "AVS2_17_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "16.45"
+        },
+        {
+            "image_id": "AVS2_17_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "33.01"
+        },
+        {
+            "image_id": "AVS2_17_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "53.86"
+        },
+        {
+            "image_id": "AVS2_17_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "36.5"
+        },
+        {
+            "image_id": "AVS2_17_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "53.64"
+        },
+        {
+            "image_id": "AVS2_17_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "56.63"
+        },
+        {
+            "image_id": "AVS2_17_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "59.88"
+        },
+        {
+            "image_id": "AV1_17_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "38.57"
+        },
+        {
+            "image_id": "AV1_17_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "53.81"
+        },
+        {
+            "image_id": "AV1_17_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "60.34"
+        },
+        {
+            "image_id": "AV1_17_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "64.35"
+        },
+        {
+            "image_id": "AV1_17_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "43.63"
+        },
+        {
+            "image_id": "AV1_17_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "77.18"
+        },
+        {
+            "image_id": "AV1_17_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "81.73"
+        },
+        {
+            "image_id": "AV1_17_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.26"
+        },
+        {
+            "image_id": "AV1_17_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "45.0"
+        },
+        {
+            "image_id": "AV1_17_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "79.32"
+        },
+        {
+            "image_id": "AV1_17_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "85.22"
+        },
+        {
+            "image_id": "AV1_17_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "89.59"
+        },
+        {
+            "image_id": "HEVC_18_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "21.38"
+        },
+        {
+            "image_id": "HEVC_18_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "39.04"
+        },
+        {
+            "image_id": "HEVC_18_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "56.73"
+        },
+        {
+            "image_id": "HEVC_18_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "63.78"
+        },
+        {
+            "image_id": "HEVC_18_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "6.38"
+        },
+        {
+            "image_id": "HEVC_18_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "37.38"
+        },
+        {
+            "image_id": "HEVC_18_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "69.95"
+        },
+        {
+            "image_id": "HEVC_18_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.46"
+        },
+        {
+            "image_id": "HEVC_18_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "20.41"
+        },
+        {
+            "image_id": "HEVC_18_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "56.29"
+        },
+        {
+            "image_id": "HEVC_18_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "73.13"
+        },
+        {
+            "image_id": "HEVC_18_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "85.57"
+        },
+        {
+            "image_id": "H264_18_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "22.26"
+        },
+        {
+            "image_id": "H264_18_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "45.75"
+        },
+        {
+            "image_id": "H264_18_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "64.21"
+        },
+        {
+            "image_id": "H264_18_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "63.4"
+        },
+        {
+            "image_id": "H264_18_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "22.05"
+        },
+        {
+            "image_id": "H264_18_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "47.14"
+        },
+        {
+            "image_id": "H264_18_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "70.04"
+        },
+        {
+            "image_id": "H264_18_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.03"
+        },
+        {
+            "image_id": "H264_18_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "36.05"
+        },
+        {
+            "image_id": "H264_18_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "55.97"
+        },
+        {
+            "image_id": "H264_18_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "69.54"
+        },
+        {
+            "image_id": "H264_18_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "80.75"
+        },
+        {
+            "image_id": "VP9_18_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "47.8"
+        },
+        {
+            "image_id": "VP9_18_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "62.47"
+        },
+        {
+            "image_id": "VP9_18_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "62.76"
+        },
+        {
+            "image_id": "VP9_18_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "66.61"
+        },
+        {
+            "image_id": "VP9_18_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "46.53"
+        },
+        {
+            "image_id": "VP9_18_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "76.16"
+        },
+        {
+            "image_id": "VP9_18_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "79.53"
+        },
+        {
+            "image_id": "VP9_18_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.07"
+        },
+        {
+            "image_id": "VP9_18_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "55.03"
+        },
+        {
+            "image_id": "VP9_18_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "72.96"
+        },
+        {
+            "image_id": "VP9_18_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "79.74"
+        },
+        {
+            "image_id": "VP9_18_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.19"
+        },
+        {
+            "image_id": "AVS2_18_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "22.91"
+        },
+        {
+            "image_id": "AVS2_18_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "41.82"
+        },
+        {
+            "image_id": "AVS2_18_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "53.66"
+        },
+        {
+            "image_id": "AVS2_18_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "61.64"
+        },
+        {
+            "image_id": "AVS2_18_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "14.69"
+        },
+        {
+            "image_id": "AVS2_18_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "41.5"
+        },
+        {
+            "image_id": "AVS2_18_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "68.46"
+        },
+        {
+            "image_id": "AVS2_18_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "75.36"
+        },
+        {
+            "image_id": "AVS2_18_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "42.08"
+        },
+        {
+            "image_id": "AVS2_18_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "50.64"
+        },
+        {
+            "image_id": "AVS2_18_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "63.32"
+        },
+        {
+            "image_id": "AVS2_18_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "73.16"
+        },
+        {
+            "image_id": "AV1_18_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "50.62"
+        },
+        {
+            "image_id": "AV1_18_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "59.72"
+        },
+        {
+            "image_id": "AV1_18_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "66.28"
+        },
+        {
+            "image_id": "AV1_18_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "67.93"
+        },
+        {
+            "image_id": "AV1_18_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "66.77"
+        },
+        {
+            "image_id": "AV1_18_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "80.4"
+        },
+        {
+            "image_id": "AV1_18_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "82.96"
+        },
+        {
+            "image_id": "AV1_18_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "83.16"
+        },
+        {
+            "image_id": "AV1_18_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "65.82"
+        },
+        {
+            "image_id": "AV1_18_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "78.81"
+        },
+        {
+            "image_id": "AV1_18_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "85.36"
+        },
+        {
+            "image_id": "AV1_18_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "88.55"
+        },
+        {
+            "image_id": "HEVC_19_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.14"
+        },
+        {
+            "image_id": "HEVC_19_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "37.28"
+        },
+        {
+            "image_id": "HEVC_19_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "45.13"
+        },
+        {
+            "image_id": "HEVC_19_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "53.47"
+        },
+        {
+            "image_id": "HEVC_19_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "6.12"
+        },
+        {
+            "image_id": "HEVC_19_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "27.08"
+        },
+        {
+            "image_id": "HEVC_19_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "67.53"
+        },
+        {
+            "image_id": "HEVC_19_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "78.59"
+        },
+        {
+            "image_id": "HEVC_19_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "28.93"
+        },
+        {
+            "image_id": "HEVC_19_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "55.38"
+        },
+        {
+            "image_id": "HEVC_19_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "76.3"
+        },
+        {
+            "image_id": "HEVC_19_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "81.35"
+        },
+        {
+            "image_id": "H264_19_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "18.59"
+        },
+        {
+            "image_id": "H264_19_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "39.08"
+        },
+        {
+            "image_id": "H264_19_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "50.97"
+        },
+        {
+            "image_id": "H264_19_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "52.09"
+        },
+        {
+            "image_id": "H264_19_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "16.74"
+        },
+        {
+            "image_id": "H264_19_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "49.34"
+        },
+        {
+            "image_id": "H264_19_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "64.95"
+        },
+        {
+            "image_id": "H264_19_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "76.05"
+        },
+        {
+            "image_id": "H264_19_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "25.22"
+        },
+        {
+            "image_id": "H264_19_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "67.34"
+        },
+        {
+            "image_id": "H264_19_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "78.25"
+        },
+        {
+            "image_id": "H264_19_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "84.35"
+        },
+        {
+            "image_id": "VP9_19_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "40.61"
+        },
+        {
+            "image_id": "VP9_19_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "50.4"
+        },
+        {
+            "image_id": "VP9_19_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "50.91"
+        },
+        {
+            "image_id": "VP9_19_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "46.21"
+        },
+        {
+            "image_id": "VP9_19_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "55.85"
+        },
+        {
+            "image_id": "VP9_19_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "71.26"
+        },
+        {
+            "image_id": "VP9_19_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "86.56"
+        },
+        {
+            "image_id": "VP9_19_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "88.76"
+        },
+        {
+            "image_id": "VP9_19_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "63.81"
+        },
+        {
+            "image_id": "VP9_19_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "77.46"
+        },
+        {
+            "image_id": "VP9_19_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "87.62"
+        },
+        {
+            "image_id": "VP9_19_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "85.49"
+        },
+        {
+            "image_id": "AVS2_19_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "10.81"
+        },
+        {
+            "image_id": "AVS2_19_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "28.65"
+        },
+        {
+            "image_id": "AVS2_19_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "29.94"
+        },
+        {
+            "image_id": "AVS2_19_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "47.06"
+        },
+        {
+            "image_id": "AVS2_19_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "11.75"
+        },
+        {
+            "image_id": "AVS2_19_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "26.9"
+        },
+        {
+            "image_id": "AVS2_19_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "59.03"
+        },
+        {
+            "image_id": "AVS2_19_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "70.66"
+        },
+        {
+            "image_id": "AVS2_19_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "53.36"
+        },
+        {
+            "image_id": "AVS2_19_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "61.05"
+        },
+        {
+            "image_id": "AVS2_19_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "70.77"
+        },
+        {
+            "image_id": "AVS2_19_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.07"
+        },
+        {
+            "image_id": "AV1_19_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "38.3"
+        },
+        {
+            "image_id": "AV1_19_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "49.37"
+        },
+        {
+            "image_id": "AV1_19_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "50.1"
+        },
+        {
+            "image_id": "AV1_19_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "52.43"
+        },
+        {
+            "image_id": "AV1_19_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "67.28"
+        },
+        {
+            "image_id": "AV1_19_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "72.52"
+        },
+        {
+            "image_id": "AV1_19_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "80.68"
+        },
+        {
+            "image_id": "AV1_19_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.96"
+        },
+        {
+            "image_id": "AV1_19_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "68.47"
+        },
+        {
+            "image_id": "AV1_19_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "82.02"
+        },
+        {
+            "image_id": "AV1_19_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "86.54"
+        },
+        {
+            "image_id": "AV1_19_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "87.19"
+        },
+        {
+            "image_id": "HEVC_20_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "14.98"
+        },
+        {
+            "image_id": "HEVC_20_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "38.2"
+        },
+        {
+            "image_id": "HEVC_20_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "38.91"
+        },
+        {
+            "image_id": "HEVC_20_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "53.85"
+        },
+        {
+            "image_id": "HEVC_20_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "8.39"
+        },
+        {
+            "image_id": "HEVC_20_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "36.96"
+        },
+        {
+            "image_id": "HEVC_20_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "62.67"
+        },
+        {
+            "image_id": "HEVC_20_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "77.28"
+        },
+        {
+            "image_id": "HEVC_20_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "38.8"
+        },
+        {
+            "image_id": "HEVC_20_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "64.5"
+        },
+        {
+            "image_id": "HEVC_20_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "79.76"
+        },
+        {
+            "image_id": "HEVC_20_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "90.41"
+        },
+        {
+            "image_id": "H264_20_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "12.25"
+        },
+        {
+            "image_id": "H264_20_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "29.18"
+        },
+        {
+            "image_id": "H264_20_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "51.15"
+        },
+        {
+            "image_id": "H264_20_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "53.17"
+        },
+        {
+            "image_id": "H264_20_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "11.48"
+        },
+        {
+            "image_id": "H264_20_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "39.87"
+        },
+        {
+            "image_id": "H264_20_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "57.47"
+        },
+        {
+            "image_id": "H264_20_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "81.11"
+        },
+        {
+            "image_id": "H264_20_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "20.86"
+        },
+        {
+            "image_id": "H264_20_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "48.05"
+        },
+        {
+            "image_id": "H264_20_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "68.53"
+        },
+        {
+            "image_id": "H264_20_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "82.34"
+        },
+        {
+            "image_id": "VP9_20_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "46.12"
+        },
+        {
+            "image_id": "VP9_20_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "56.32"
+        },
+        {
+            "image_id": "VP9_20_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "54.24"
+        },
+        {
+            "image_id": "VP9_20_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "58.53"
+        },
+        {
+            "image_id": "VP9_20_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "56.4"
+        },
+        {
+            "image_id": "VP9_20_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "68.89"
+        },
+        {
+            "image_id": "VP9_20_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "78.55"
+        },
+        {
+            "image_id": "VP9_20_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "84.06"
+        },
+        {
+            "image_id": "VP9_20_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "62.69"
+        },
+        {
+            "image_id": "VP9_20_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "72.32"
+        },
+        {
+            "image_id": "VP9_20_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "85.74"
+        },
+        {
+            "image_id": "VP9_20_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "89.15"
+        },
+        {
+            "image_id": "AVS2_20_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "16.94"
+        },
+        {
+            "image_id": "AVS2_20_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "33.21"
+        },
+        {
+            "image_id": "AVS2_20_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "48.3"
+        },
+        {
+            "image_id": "AVS2_20_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "58.89"
+        },
+        {
+            "image_id": "AVS2_20_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "29.22"
+        },
+        {
+            "image_id": "AVS2_20_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "40.05"
+        },
+        {
+            "image_id": "AVS2_20_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "65.96"
+        },
+        {
+            "image_id": "AVS2_20_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "82.16"
+        },
+        {
+            "image_id": "AVS2_20_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "68.93"
+        },
+        {
+            "image_id": "AVS2_20_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "65.93"
+        },
+        {
+            "image_id": "AVS2_20_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "78.42"
+        },
+        {
+            "image_id": "AVS2_20_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "83.81"
+        },
+        {
+            "image_id": "AV1_20_960x540_1.mp4",
+            "ann_type": "score",
+            "score": "45.91"
+        },
+        {
+            "image_id": "AV1_20_960x540_2.mp4",
+            "ann_type": "score",
+            "score": "57.08"
+        },
+        {
+            "image_id": "AV1_20_960x540_3.mp4",
+            "ann_type": "score",
+            "score": "62.48"
+        },
+        {
+            "image_id": "AV1_20_960x540_4.mp4",
+            "ann_type": "score",
+            "score": "58.63"
+        },
+        {
+            "image_id": "AV1_20_1920x1080_1.mp4",
+            "ann_type": "score",
+            "score": "79.73"
+        },
+        {
+            "image_id": "AV1_20_1920x1080_2.mp4",
+            "ann_type": "score",
+            "score": "83.59"
+        },
+        {
+            "image_id": "AV1_20_1920x1080_3.mp4",
+            "ann_type": "score",
+            "score": "86.19"
+        },
+        {
+            "image_id": "AV1_20_1920x1080_4.mp4",
+            "ann_type": "score",
+            "score": "86.52"
+        },
+        {
+            "image_id": "AV1_20_3840x2160_1.mp4",
+            "ann_type": "score",
+            "score": "74.07"
+        },
+        {
+            "image_id": "AV1_20_3840x2160_2.mp4",
+            "ann_type": "score",
+            "score": "93.2"
+        },
+        {
+            "image_id": "AV1_20_3840x2160_3.mp4",
+            "ann_type": "score",
+            "score": "93.53"
+        },
+        {
+            "image_id": "AV1_20_3840x2160_4.mp4",
+            "ann_type": "score",
+            "score": "92.4"
+        }
+    ]
+}

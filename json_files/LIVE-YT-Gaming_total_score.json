@@ -1,0 +1,3004 @@
+{
+    "annotations": [
+        {
+            "image_id": "ARKSuvivalEvolved-001.mp4",
+            "ann_type": "score",
+            "score": "68.71447486"
+        },
+        {
+            "image_id": "AgeEmpires-001.mp4",
+            "ann_type": "score",
+            "score": "55.35293472"
+        },
+        {
+            "image_id": "AgeEmpires-004.mp4",
+            "ann_type": "score",
+            "score": "80.04556844"
+        },
+        {
+            "image_id": "AgeEmpires-005.mp4",
+            "ann_type": "score",
+            "score": "68.27579275"
+        },
+        {
+            "image_id": "AgeEmpires-006.mp4",
+            "ann_type": "score",
+            "score": "81.0831136"
+        },
+        {
+            "image_id": "AnimalCrossing-006.mp4",
+            "ann_type": "score",
+            "score": "86.6480577"
+        },
+        {
+            "image_id": "AnimalCrossing-007.mp4",
+            "ann_type": "score",
+            "score": "90.81265425"
+        },
+        {
+            "image_id": "AnimalCrossing-008.mp4",
+            "ann_type": "score",
+            "score": "95.9543135"
+        },
+        {
+            "image_id": "AnimalCrossing-010.mp4",
+            "ann_type": "score",
+            "score": "62.6641094"
+        },
+        {
+            "image_id": "AnimalCrossing-015.mp4",
+            "ann_type": "score",
+            "score": "83.88521648"
+        },
+        {
+            "image_id": "AnimalCrossing-017.mp4",
+            "ann_type": "score",
+            "score": "79.19158135"
+        },
+        {
+            "image_id": "AnimalCrossing-018.mp4",
+            "ann_type": "score",
+            "score": "80.76407449"
+        },
+        {
+            "image_id": "ApexLegends-001.mp4",
+            "ann_type": "score",
+            "score": "55.63511451"
+        },
+        {
+            "image_id": "ApexLegends-002.mp4",
+            "ann_type": "score",
+            "score": "62.88179713"
+        },
+        {
+            "image_id": "ApexLegends-004.mp4",
+            "ann_type": "score",
+            "score": "50.70996543"
+        },
+        {
+            "image_id": "ApexLegends-005.mp4",
+            "ann_type": "score",
+            "score": "64.41769378"
+        },
+        {
+            "image_id": "ApexLegends-006.mp4",
+            "ann_type": "score",
+            "score": "38.4645166"
+        },
+        {
+            "image_id": "ApexLegends-007.mp4",
+            "ann_type": "score",
+            "score": "74.3302988"
+        },
+        {
+            "image_id": "ApexLegends-008.mp4",
+            "ann_type": "score",
+            "score": "75.86381571"
+        },
+        {
+            "image_id": "ApexLegends-009.mp4",
+            "ann_type": "score",
+            "score": "86.19461336"
+        },
+        {
+            "image_id": "ApexLegends-010.mp4",
+            "ann_type": "score",
+            "score": "68.51755331"
+        },
+        {
+            "image_id": "ApexLegends-011.mp4",
+            "ann_type": "score",
+            "score": "70.61898839"
+        },
+        {
+            "image_id": "ApexLegends-012.mp4",
+            "ann_type": "score",
+            "score": "81.24967771"
+        },
+        {
+            "image_id": "ApexLegends-013.mp4",
+            "ann_type": "score",
+            "score": "80.5102943"
+        },
+        {
+            "image_id": "AssassinCreed-001.mp4",
+            "ann_type": "score",
+            "score": "51.74685034"
+        },
+        {
+            "image_id": "AssassinCreed-011.mp4",
+            "ann_type": "score",
+            "score": "54.85830725"
+        },
+        {
+            "image_id": "AssassinCreed-012.mp4",
+            "ann_type": "score",
+            "score": "52.17274965"
+        },
+        {
+            "image_id": "AssassinCreed-013.mp4",
+            "ann_type": "score",
+            "score": "63.99252912"
+        },
+        {
+            "image_id": "AssassinCreed-014.mp4",
+            "ann_type": "score",
+            "score": "56.99010447"
+        },
+        {
+            "image_id": "AssassinCreed-015.mp4",
+            "ann_type": "score",
+            "score": "59.18278961"
+        },
+        {
+            "image_id": "AssassinCreed-016.mp4",
+            "ann_type": "score",
+            "score": "55.58646792"
+        },
+        {
+            "image_id": "CSGO-002.mp4",
+            "ann_type": "score",
+            "score": "46.10837686"
+        },
+        {
+            "image_id": "CSGO-003.mp4",
+            "ann_type": "score",
+            "score": "65.25533759"
+        },
+        {
+            "image_id": "CSGO-007.mp4",
+            "ann_type": "score",
+            "score": "84.0749612"
+        },
+        {
+            "image_id": "CSGO-008.mp4",
+            "ann_type": "score",
+            "score": "84.61988692"
+        },
+        {
+            "image_id": "CSGO-009.mp4",
+            "ann_type": "score",
+            "score": "27.24119275"
+        },
+        {
+            "image_id": "CSGO-010.mp4",
+            "ann_type": "score",
+            "score": "32.94861413"
+        },
+        {
+            "image_id": "CSGO-011.mp4",
+            "ann_type": "score",
+            "score": "30.40333285"
+        },
+        {
+            "image_id": "CSGO-015.mp4",
+            "ann_type": "score",
+            "score": "83.09580365"
+        },
+        {
+            "image_id": "CSGO-018.mp4",
+            "ann_type": "score",
+            "score": "60.35415479"
+        },
+        {
+            "image_id": "CSGO-019.mp4",
+            "ann_type": "score",
+            "score": "67.73562295"
+        },
+        {
+            "image_id": "CSGO-023.mp4",
+            "ann_type": "score",
+            "score": "52.96994096"
+        },
+        {
+            "image_id": "CSGO-026.mp4",
+            "ann_type": "score",
+            "score": "42.90156929"
+        },
+        {
+            "image_id": "CSGO-028.mp4",
+            "ann_type": "score",
+            "score": "59.33467712"
+        },
+        {
+            "image_id": "CSGO-029.mp4",
+            "ann_type": "score",
+            "score": "64.99956717"
+        },
+        {
+            "image_id": "CSGO-030.mp4",
+            "ann_type": "score",
+            "score": "59.0773"
+        },
+        {
+            "image_id": "CSGO-031.mp4",
+            "ann_type": "score",
+            "score": "81.06775295"
+        },
+        {
+            "image_id": "CSGO-032.mp4",
+            "ann_type": "score",
+            "score": "51.49400811"
+        },
+        {
+            "image_id": "CSGO-033.mp4",
+            "ann_type": "score",
+            "score": "75.5057567"
+        },
+        {
+            "image_id": "CSGO-034.mp4",
+            "ann_type": "score",
+            "score": "33.59950658"
+        },
+        {
+            "image_id": "CSGO-035.mp4",
+            "ann_type": "score",
+            "score": "32.71395519"
+        },
+        {
+            "image_id": "CSGO-036.mp4",
+            "ann_type": "score",
+            "score": "34.12768589"
+        },
+        {
+            "image_id": "CSGO-038.mp4",
+            "ann_type": "score",
+            "score": "76.6805259"
+        },
+        {
+            "image_id": "CSGO-043.mp4",
+            "ann_type": "score",
+            "score": "69.76685641"
+        },
+        {
+            "image_id": "CSGO-046.mp4",
+            "ann_type": "score",
+            "score": "74.62327672"
+        },
+        {
+            "image_id": "CSGO-047.mp4",
+            "ann_type": "score",
+            "score": "67.62889713"
+        },
+        {
+            "image_id": "CSGO-048.mp4",
+            "ann_type": "score",
+            "score": "80.41417565"
+        },
+        {
+            "image_id": "CSGO-050.mp4",
+            "ann_type": "score",
+            "score": "72.18020725"
+        },
+        {
+            "image_id": "CSGO-051.mp4",
+            "ann_type": "score",
+            "score": "69.88913227"
+        },
+        {
+            "image_id": "CSGO-055.mp4",
+            "ann_type": "score",
+            "score": "76.74179281"
+        },
+        {
+            "image_id": "CallofDuty-001.mp4",
+            "ann_type": "score",
+            "score": "88.4775821"
+        },
+        {
+            "image_id": "CallofDuty-002.mp4",
+            "ann_type": "score",
+            "score": "85.05866182"
+        },
+        {
+            "image_id": "CallofDuty-003.mp4",
+            "ann_type": "score",
+            "score": "55.48541835"
+        },
+        {
+            "image_id": "CallofDuty-004.mp4",
+            "ann_type": "score",
+            "score": "53.73933066"
+        },
+        {
+            "image_id": "CallofDuty-005.mp4",
+            "ann_type": "score",
+            "score": "36.14413076"
+        },
+        {
+            "image_id": "CallofDuty-006.mp4",
+            "ann_type": "score",
+            "score": "51.08991671"
+        },
+        {
+            "image_id": "CallofDuty-008.mp4",
+            "ann_type": "score",
+            "score": "39.05431269"
+        },
+        {
+            "image_id": "CallofDuty-009.mp4",
+            "ann_type": "score",
+            "score": "36.13681413"
+        },
+        {
+            "image_id": "CallofDuty-010.mp4",
+            "ann_type": "score",
+            "score": "36.18805731"
+        },
+        {
+            "image_id": "CallofDuty-011.mp4",
+            "ann_type": "score",
+            "score": "36.77149944"
+        },
+        {
+            "image_id": "CallofDuty-012.mp4",
+            "ann_type": "score",
+            "score": "19.03096819"
+        },
+        {
+            "image_id": "CallofDuty-013.mp4",
+            "ann_type": "score",
+            "score": "73.98654876"
+        },
+        {
+            "image_id": "CallofDuty-014.mp4",
+            "ann_type": "score",
+            "score": "85.33591631"
+        },
+        {
+            "image_id": "CallofDuty-015.mp4",
+            "ann_type": "score",
+            "score": "62.40130949"
+        },
+        {
+            "image_id": "CitiesSkylines-001.mp4",
+            "ann_type": "score",
+            "score": "78.27599144"
+        },
+        {
+            "image_id": "CitiesSkylines-008.mp4",
+            "ann_type": "score",
+            "score": "72.85009129"
+        },
+        {
+            "image_id": "Civilization-001.mp4",
+            "ann_type": "score",
+            "score": "88.70411746"
+        },
+        {
+            "image_id": "Civilization-006.mp4",
+            "ann_type": "score",
+            "score": "79.6394216"
+        },
+        {
+            "image_id": "Civilization-007.mp4",
+            "ann_type": "score",
+            "score": "82.67664425"
+        },
+        {
+            "image_id": "Civilization-010.mp4",
+            "ann_type": "score",
+            "score": "69.32175127"
+        },
+        {
+            "image_id": "Civilization-011.mp4",
+            "ann_type": "score",
+            "score": "77.81132084"
+        },
+        {
+            "image_id": "Civilization-015.mp4",
+            "ann_type": "score",
+            "score": "74.12548506"
+        },
+        {
+            "image_id": "Civilization-016.mp4",
+            "ann_type": "score",
+            "score": "87.85622052"
+        },
+        {
+            "image_id": "Civilization-017.mp4",
+            "ann_type": "score",
+            "score": "81.47832205"
+        },
+        {
+            "image_id": "Civilization-018.mp4",
+            "ann_type": "score",
+            "score": "80.64892164"
+        },
+        {
+            "image_id": "Civilization-019.mp4",
+            "ann_type": "score",
+            "score": "85.97835768"
+        },
+        {
+            "image_id": "Civilization-021.mp4",
+            "ann_type": "score",
+            "score": "88.27778879"
+        },
+        {
+            "image_id": "ClashClans-003.mp4",
+            "ann_type": "score",
+            "score": "33.70685083"
+        },
+        {
+            "image_id": "ClashClans-004.mp4",
+            "ann_type": "score",
+            "score": "43.74228849"
+        },
+        {
+            "image_id": "CodeVein-002.mp4",
+            "ann_type": "score",
+            "score": "84.1927585"
+        },
+        {
+            "image_id": "CodeVein-003.mp4",
+            "ann_type": "score",
+            "score": "87.98685069"
+        },
+        {
+            "image_id": "CodeVein-004.mp4",
+            "ann_type": "score",
+            "score": "88.94879462"
+        },
+        {
+            "image_id": "CodeVein-005.mp4",
+            "ann_type": "score",
+            "score": "84.7863338"
+        },
+        {
+            "image_id": "CodeVein-006.mp4",
+            "ann_type": "score",
+            "score": "87.79015643"
+        },
+        {
+            "image_id": "CodeVein-007.mp4",
+            "ann_type": "score",
+            "score": "76.9505771"
+        },
+        {
+            "image_id": "CodeVein-011.mp4",
+            "ann_type": "score",
+            "score": "85.77868106"
+        },
+        {
+            "image_id": "CodeVein-012.mp4",
+            "ann_type": "score",
+            "score": "85.90452195"
+        },
+        {
+            "image_id": "CodeVein-013.mp4",
+            "ann_type": "score",
+            "score": "81.4212417"
+        },
+        {
+            "image_id": "CodeVein-015.mp4",
+            "ann_type": "score",
+            "score": "79.86085913"
+        },
+        {
+            "image_id": "CodeVein-016.mp4",
+            "ann_type": "score",
+            "score": "81.56583299"
+        },
+        {
+            "image_id": "CodeVein-017.mp4",
+            "ann_type": "score",
+            "score": "59.62262192"
+        },
+        {
+            "image_id": "CodeVein-019.mp4",
+            "ann_type": "score",
+            "score": "78.88304483"
+        },
+        {
+            "image_id": "CrusaderKings-001.mp4",
+            "ann_type": "score",
+            "score": "78.75557591"
+        },
+        {
+            "image_id": "CultistSimulator-001.mp4",
+            "ann_type": "score",
+            "score": "87.54175396"
+        },
+        {
+            "image_id": "CultistSimulator-003.mp4",
+            "ann_type": "score",
+            "score": "88.56971106"
+        },
+        {
+            "image_id": "CultistSimulator-004.mp4",
+            "ann_type": "score",
+            "score": "86.42067693"
+        },
+        {
+            "image_id": "CultistSimulator-005.mp4",
+            "ann_type": "score",
+            "score": "94.52690202"
+        },
+        {
+            "image_id": "CultistSimulator-006.mp4",
+            "ann_type": "score",
+            "score": "92.00888348"
+        },
+        {
+            "image_id": "CultistSimulator-007.mp4",
+            "ann_type": "score",
+            "score": "91.57198929"
+        },
+        {
+            "image_id": "DOTA-001.mp4",
+            "ann_type": "score",
+            "score": "46.1829379"
+        },
+        {
+            "image_id": "DOTA-002.mp4",
+            "ann_type": "score",
+            "score": "54.34987204"
+        },
+        {
+            "image_id": "DOTA-003.mp4",
+            "ann_type": "score",
+            "score": "59.75078837"
+        },
+        {
+            "image_id": "DOTA-004.mp4",
+            "ann_type": "score",
+            "score": "23.97915029"
+        },
+        {
+            "image_id": "DOTA-005.mp4",
+            "ann_type": "score",
+            "score": "18.53513461"
+        },
+        {
+            "image_id": "DOTA-006.mp4",
+            "ann_type": "score",
+            "score": "83.4568865"
+        },
+        {
+            "image_id": "DarkSouls-001.mp4",
+            "ann_type": "score",
+            "score": "66.9690624"
+        },
+        {
+            "image_id": "DarkSouls-004.mp4",
+            "ann_type": "score",
+            "score": "58.88986453"
+        },
+        {
+            "image_id": "DarkSouls-005.mp4",
+            "ann_type": "score",
+            "score": "75.67409565"
+        },
+        {
+            "image_id": "DarkSouls-051.mp4",
+            "ann_type": "score",
+            "score": "65.38637115"
+        },
+        {
+            "image_id": "DarkSouls-054.mp4",
+            "ann_type": "score",
+            "score": "62.68990537"
+        },
+        {
+            "image_id": "DarkSouls-055.mp4",
+            "ann_type": "score",
+            "score": "65.97278899"
+        },
+        {
+            "image_id": "DarkSouls-062.mp4",
+            "ann_type": "score",
+            "score": "70.84611659"
+        },
+        {
+            "image_id": "DarkSouls-063.mp4",
+            "ann_type": "score",
+            "score": "72.87770711"
+        },
+        {
+            "image_id": "DarkSouls-071.mp4",
+            "ann_type": "score",
+            "score": "57.44595826"
+        },
+        {
+            "image_id": "DarkSouls-072.mp4",
+            "ann_type": "score",
+            "score": "44.49292947"
+        },
+        {
+            "image_id": "Diablo-001.mp4",
+            "ann_type": "score",
+            "score": "69.28891044"
+        },
+        {
+            "image_id": "Diablo-003.mp4",
+            "ann_type": "score",
+            "score": "71.87152001"
+        },
+        {
+            "image_id": "Diablo-004.mp4",
+            "ann_type": "score",
+            "score": "85.8852922"
+        },
+        {
+            "image_id": "Diablo-005.mp4",
+            "ann_type": "score",
+            "score": "75.20333206"
+        },
+        {
+            "image_id": "Diablo-006.mp4",
+            "ann_type": "score",
+            "score": "68.06881827"
+        },
+        {
+            "image_id": "ElderScrolls-002.mp4",
+            "ann_type": "score",
+            "score": "33.18705779"
+        },
+        {
+            "image_id": "ElderScrolls-003.mp4",
+            "ann_type": "score",
+            "score": "49.65858233"
+        },
+        {
+            "image_id": "ElderScrolls-004.mp4",
+            "ann_type": "score",
+            "score": "52.26219557"
+        },
+        {
+            "image_id": "FF-001.mp4",
+            "ann_type": "score",
+            "score": "63.02855578"
+        },
+        {
+            "image_id": "FF-002.mp4",
+            "ann_type": "score",
+            "score": "79.04722795"
+        },
+        {
+            "image_id": "FF-003.mp4",
+            "ann_type": "score",
+            "score": "57.11394549"
+        },
+        {
+            "image_id": "FF-004.mp4",
+            "ann_type": "score",
+            "score": "62.34573764"
+        },
+        {
+            "image_id": "FF-005.mp4",
+            "ann_type": "score",
+            "score": "72.11647434"
+        },
+        {
+            "image_id": "FF-007.mp4",
+            "ann_type": "score",
+            "score": "63.82511093"
+        },
+        {
+            "image_id": "FF-008.mp4",
+            "ann_type": "score",
+            "score": "58.84593525"
+        },
+        {
+            "image_id": "FF-021.mp4",
+            "ann_type": "score",
+            "score": "62.59044594"
+        },
+        {
+            "image_id": "FF-022.mp4",
+            "ann_type": "score",
+            "score": "69.77465009"
+        },
+        {
+            "image_id": "FF-023.mp4",
+            "ann_type": "score",
+            "score": "71.81385346"
+        },
+        {
+            "image_id": "FF-031.mp4",
+            "ann_type": "score",
+            "score": "67.54620057"
+        },
+        {
+            "image_id": "FF-032.mp4",
+            "ann_type": "score",
+            "score": "58.94932607"
+        },
+        {
+            "image_id": "FF-033.mp4",
+            "ann_type": "score",
+            "score": "54.47727327"
+        },
+        {
+            "image_id": "FF-034.mp4",
+            "ann_type": "score",
+            "score": "66.19601253"
+        },
+        {
+            "image_id": "FIFA-001.mp4",
+            "ann_type": "score",
+            "score": "56.79509814"
+        },
+        {
+            "image_id": "FIFA-002.mp4",
+            "ann_type": "score",
+            "score": "75.57545691"
+        },
+        {
+            "image_id": "FIFA-004.mp4",
+            "ann_type": "score",
+            "score": "71.86894859"
+        },
+        {
+            "image_id": "FIFA-005.mp4",
+            "ann_type": "score",
+            "score": "66.45057434"
+        },
+        {
+            "image_id": "FIFA-008.mp4",
+            "ann_type": "score",
+            "score": "58.42765072"
+        },
+        {
+            "image_id": "FIFA-009.mp4",
+            "ann_type": "score",
+            "score": "69.80834998"
+        },
+        {
+            "image_id": "FIFA-010.mp4",
+            "ann_type": "score",
+            "score": "66.09373809"
+        },
+        {
+            "image_id": "FIFA-011.mp4",
+            "ann_type": "score",
+            "score": "73.61658305"
+        },
+        {
+            "image_id": "FIFA-012.mp4",
+            "ann_type": "score",
+            "score": "69.11782592"
+        },
+        {
+            "image_id": "FIFA-013.mp4",
+            "ann_type": "score",
+            "score": "65.7651246"
+        },
+        {
+            "image_id": "FIFA-014.mp4",
+            "ann_type": "score",
+            "score": "40.84371322"
+        },
+        {
+            "image_id": "Fallout-001.mp4",
+            "ann_type": "score",
+            "score": "19.051547"
+        },
+        {
+            "image_id": "Fallout-003.mp4",
+            "ann_type": "score",
+            "score": "4.529653337"
+        },
+        {
+            "image_id": "Fallout-004.mp4",
+            "ann_type": "score",
+            "score": "29.48502167"
+        },
+        {
+            "image_id": "Fallout-005.mp4",
+            "ann_type": "score",
+            "score": "21.96805921"
+        },
+        {
+            "image_id": "Fallout-007.mp4",
+            "ann_type": "score",
+            "score": "16.00988605"
+        },
+        {
+            "image_id": "Fallout-071.mp4",
+            "ann_type": "score",
+            "score": "74.19621855"
+        },
+        {
+            "image_id": "Fallout-072.mp4",
+            "ann_type": "score",
+            "score": "71.08786457"
+        },
+        {
+            "image_id": "Fallout-073.mp4",
+            "ann_type": "score",
+            "score": "70.04797027"
+        },
+        {
+            "image_id": "Fallout-074.mp4",
+            "ann_type": "score",
+            "score": "78.43561072"
+        },
+        {
+            "image_id": "Fallout-075.mp4",
+            "ann_type": "score",
+            "score": "72.26159765"
+        },
+        {
+            "image_id": "Fallout-076.mp4",
+            "ann_type": "score",
+            "score": "74.32096034"
+        },
+        {
+            "image_id": "FireEmblem-001.mp4",
+            "ann_type": "score",
+            "score": "69.99920577"
+        },
+        {
+            "image_id": "Fortnite-006.mp4",
+            "ann_type": "score",
+            "score": "56.32386315"
+        },
+        {
+            "image_id": "Fortnite-014.mp4",
+            "ann_type": "score",
+            "score": "53.7771214"
+        },
+        {
+            "image_id": "Fortnite-017.mp4",
+            "ann_type": "score",
+            "score": "63.39594106"
+        },
+        {
+            "image_id": "Fortnite-018.mp4",
+            "ann_type": "score",
+            "score": "54.75142249"
+        },
+        {
+            "image_id": "Fortnite-021.mp4",
+            "ann_type": "score",
+            "score": "77.55125883"
+        },
+        {
+            "image_id": "Fortnite-022.mp4",
+            "ann_type": "score",
+            "score": "43.29539512"
+        },
+        {
+            "image_id": "Fortnite-024.mp4",
+            "ann_type": "score",
+            "score": "77.42369864"
+        },
+        {
+            "image_id": "Fortnite-028.mp4",
+            "ann_type": "score",
+            "score": "66.65414272"
+        },
+        {
+            "image_id": "Fortnite-029.mp4",
+            "ann_type": "score",
+            "score": "72.33699341"
+        },
+        {
+            "image_id": "Fortnite-032.mp4",
+            "ann_type": "score",
+            "score": "56.32568318"
+        },
+        {
+            "image_id": "Fortnite-037.mp4",
+            "ann_type": "score",
+            "score": "55.25527586"
+        },
+        {
+            "image_id": "Fortnite-038.mp4",
+            "ann_type": "score",
+            "score": "57.73964443"
+        },
+        {
+            "image_id": "Fortnite-045.mp4",
+            "ann_type": "score",
+            "score": "69.06816026"
+        },
+        {
+            "image_id": "Fortnite-047.mp4",
+            "ann_type": "score",
+            "score": "63.88992374"
+        },
+        {
+            "image_id": "Fortnite-049.mp4",
+            "ann_type": "score",
+            "score": "65.02985389"
+        },
+        {
+            "image_id": "Fortnite-051.mp4",
+            "ann_type": "score",
+            "score": "78.92786546"
+        },
+        {
+            "image_id": "Fortnite-053.mp4",
+            "ann_type": "score",
+            "score": "89.13552138"
+        },
+        {
+            "image_id": "Fortnite-055.mp4",
+            "ann_type": "score",
+            "score": "79.05004523"
+        },
+        {
+            "image_id": "Fortnite-057.mp4",
+            "ann_type": "score",
+            "score": "84.05999463"
+        },
+        {
+            "image_id": "Fortnite-058.mp4",
+            "ann_type": "score",
+            "score": "72.34498024"
+        },
+        {
+            "image_id": "Fortnite-062.mp4",
+            "ann_type": "score",
+            "score": "74.63192968"
+        },
+        {
+            "image_id": "Fortnite-066.mp4",
+            "ann_type": "score",
+            "score": "85.20065594"
+        },
+        {
+            "image_id": "Fortnite-073.mp4",
+            "ann_type": "score",
+            "score": "41.37951215"
+        },
+        {
+            "image_id": "Fortnite-075.mp4",
+            "ann_type": "score",
+            "score": "62.84670314"
+        },
+        {
+            "image_id": "Fortnite-076.mp4",
+            "ann_type": "score",
+            "score": "60.00950464"
+        },
+        {
+            "image_id": "Fortnite-079.mp4",
+            "ann_type": "score",
+            "score": "83.45582126"
+        },
+        {
+            "image_id": "Fortnite-080.mp4",
+            "ann_type": "score",
+            "score": "65.69910085"
+        },
+        {
+            "image_id": "Fortnite-084.mp4",
+            "ann_type": "score",
+            "score": "58.93459636"
+        },
+        {
+            "image_id": "Fortnite-088.mp4",
+            "ann_type": "score",
+            "score": "39.63565621"
+        },
+        {
+            "image_id": "Fortnite-093.mp4",
+            "ann_type": "score",
+            "score": "52.87113755"
+        },
+        {
+            "image_id": "Fortnite-099.mp4",
+            "ann_type": "score",
+            "score": "69.75946184"
+        },
+        {
+            "image_id": "ForzaHorizon-001.mp4",
+            "ann_type": "score",
+            "score": "86.21949537"
+        },
+        {
+            "image_id": "ForzaHorizon-002.mp4",
+            "ann_type": "score",
+            "score": "82.96570019"
+        },
+        {
+            "image_id": "ForzaHorizon-003.mp4",
+            "ann_type": "score",
+            "score": "88.30215929"
+        },
+        {
+            "image_id": "ForzaHorizon-005.mp4",
+            "ann_type": "score",
+            "score": "47.33445394"
+        },
+        {
+            "image_id": "ForzaHorizon-008.mp4",
+            "ann_type": "score",
+            "score": "43.56004551"
+        },
+        {
+            "image_id": "ForzaHorizon-011.mp4",
+            "ann_type": "score",
+            "score": "50.06083988"
+        },
+        {
+            "image_id": "ForzaHorizon-012.mp4",
+            "ann_type": "score",
+            "score": "51.84098174"
+        },
+        {
+            "image_id": "ForzaHorizon-018.mp4",
+            "ann_type": "score",
+            "score": "67.5567277"
+        },
+        {
+            "image_id": "ForzaHorizon-019.mp4",
+            "ann_type": "score",
+            "score": "88.80411588"
+        },
+        {
+            "image_id": "ForzaHorizon-020.mp4",
+            "ann_type": "score",
+            "score": "81.480658"
+        },
+        {
+            "image_id": "ForzaHorizon-021.mp4",
+            "ann_type": "score",
+            "score": "74.88639203"
+        },
+        {
+            "image_id": "ForzaHorizon-022.mp4",
+            "ann_type": "score",
+            "score": "86.28361458"
+        },
+        {
+            "image_id": "ForzaHorizon-023.mp4",
+            "ann_type": "score",
+            "score": "91.08438242"
+        },
+        {
+            "image_id": "ForzaHorizon-040.mp4",
+            "ann_type": "score",
+            "score": "85.95978941"
+        },
+        {
+            "image_id": "ForzaHorizon-041.mp4",
+            "ann_type": "score",
+            "score": "84.30715014"
+        },
+        {
+            "image_id": "ForzaHorizon-042.mp4",
+            "ann_type": "score",
+            "score": "81.18062471"
+        },
+        {
+            "image_id": "ForzaHorizon-043.mp4",
+            "ann_type": "score",
+            "score": "81.12295175"
+        },
+        {
+            "image_id": "GTA-001.mp4",
+            "ann_type": "score",
+            "score": "56.01671608"
+        },
+        {
+            "image_id": "GTA-003.mp4",
+            "ann_type": "score",
+            "score": "73.5404977"
+        },
+        {
+            "image_id": "GTA-004.mp4",
+            "ann_type": "score",
+            "score": "69.74055296"
+        },
+        {
+            "image_id": "GTA-005.mp4",
+            "ann_type": "score",
+            "score": "81.78611948"
+        },
+        {
+            "image_id": "GTA-011.mp4",
+            "ann_type": "score",
+            "score": "64.67748782"
+        },
+        {
+            "image_id": "GTA-013.mp4",
+            "ann_type": "score",
+            "score": "66.78690939"
+        },
+        {
+            "image_id": "GTA-015.mp4",
+            "ann_type": "score",
+            "score": "74.51077066"
+        },
+        {
+            "image_id": "GTA-016.mp4",
+            "ann_type": "score",
+            "score": "67.11947369"
+        },
+        {
+            "image_id": "GTA-017.mp4",
+            "ann_type": "score",
+            "score": "61.28648187"
+        },
+        {
+            "image_id": "GTA-018.mp4",
+            "ann_type": "score",
+            "score": "54.29688937"
+        },
+        {
+            "image_id": "GTA-023.mp4",
+            "ann_type": "score",
+            "score": "66.99332887"
+        },
+        {
+            "image_id": "GTA-025.mp4",
+            "ann_type": "score",
+            "score": "59.52804762"
+        },
+        {
+            "image_id": "GTA-027.mp4",
+            "ann_type": "score",
+            "score": "47.75578827"
+        },
+        {
+            "image_id": "GTA-028.mp4",
+            "ann_type": "score",
+            "score": "76.19014311"
+        },
+        {
+            "image_id": "GTA-031.mp4",
+            "ann_type": "score",
+            "score": "67.08987371"
+        },
+        {
+            "image_id": "GTA-040.mp4",
+            "ann_type": "score",
+            "score": "68.64968395"
+        },
+        {
+            "image_id": "GTA-041.mp4",
+            "ann_type": "score",
+            "score": "67.54944865"
+        },
+        {
+            "image_id": "GTA-042.mp4",
+            "ann_type": "score",
+            "score": "67.14725325"
+        },
+        {
+            "image_id": "GTA-043.mp4",
+            "ann_type": "score",
+            "score": "56.59439956"
+        },
+        {
+            "image_id": "GTA-046.mp4",
+            "ann_type": "score",
+            "score": "42.04554039"
+        },
+        {
+            "image_id": "GTA-048.mp4",
+            "ann_type": "score",
+            "score": "53.89102378"
+        },
+        {
+            "image_id": "GTA-049.mp4",
+            "ann_type": "score",
+            "score": "43.31777703"
+        },
+        {
+            "image_id": "GTA-050.mp4",
+            "ann_type": "score",
+            "score": "88.0473977"
+        },
+        {
+            "image_id": "GTA-056.mp4",
+            "ann_type": "score",
+            "score": "56.36110383"
+        },
+        {
+            "image_id": "GTA-059.mp4",
+            "ann_type": "score",
+            "score": "81.89542806"
+        },
+        {
+            "image_id": "GTA-061.mp4",
+            "ann_type": "score",
+            "score": "85.15444716"
+        },
+        {
+            "image_id": "GTA-062.mp4",
+            "ann_type": "score",
+            "score": "26.97860444"
+        },
+        {
+            "image_id": "GTA-064.mp4",
+            "ann_type": "score",
+            "score": "61.68526384"
+        },
+        {
+            "image_id": "GenshinImpact-001.mp4",
+            "ann_type": "score",
+            "score": "83.82182012"
+        },
+        {
+            "image_id": "GenshinImpact-002.mp4",
+            "ann_type": "score",
+            "score": "81.29212174"
+        },
+        {
+            "image_id": "GenshinImpact-003.mp4",
+            "ann_type": "score",
+            "score": "83.5656159"
+        },
+        {
+            "image_id": "GenshinImpact-004.mp4",
+            "ann_type": "score",
+            "score": "84.85897868"
+        },
+        {
+            "image_id": "GenshinImpact-005.mp4",
+            "ann_type": "score",
+            "score": "92.77627571"
+        },
+        {
+            "image_id": "GenshinImpact-006.mp4",
+            "ann_type": "score",
+            "score": "89.4718206"
+        },
+        {
+            "image_id": "GenshinImpact-007.mp4",
+            "ann_type": "score",
+            "score": "86.34856276"
+        },
+        {
+            "image_id": "Hearthstone-001.mp4",
+            "ann_type": "score",
+            "score": "64.87813773"
+        },
+        {
+            "image_id": "Hearthstone-003.mp4",
+            "ann_type": "score",
+            "score": "62.56669267"
+        },
+        {
+            "image_id": "Hearthstone-004.mp4",
+            "ann_type": "score",
+            "score": "88.8455315"
+        },
+        {
+            "image_id": "Hearthstone-005.mp4",
+            "ann_type": "score",
+            "score": "74.85215371"
+        },
+        {
+            "image_id": "Hearthstone-007.mp4",
+            "ann_type": "score",
+            "score": "60.90375302"
+        },
+        {
+            "image_id": "Hearthstone-008.mp4",
+            "ann_type": "score",
+            "score": "75.32694288"
+        },
+        {
+            "image_id": "Hearthstone-009.mp4",
+            "ann_type": "score",
+            "score": "88.02549107"
+        },
+        {
+            "image_id": "Hearthstone-010.mp4",
+            "ann_type": "score",
+            "score": "76.25482322"
+        },
+        {
+            "image_id": "Hearthstone-012.mp4",
+            "ann_type": "score",
+            "score": "78.1680705"
+        },
+        {
+            "image_id": "Hearthstone-013.mp4",
+            "ann_type": "score",
+            "score": "60.55032456"
+        },
+        {
+            "image_id": "HorizonZeroDawn-001.mp4",
+            "ann_type": "score",
+            "score": "59.26974164"
+        },
+        {
+            "image_id": "HorizonZeroDawn-002.mp4",
+            "ann_type": "score",
+            "score": "63.61864276"
+        },
+        {
+            "image_id": "HorizonZeroDawn-003.mp4",
+            "ann_type": "score",
+            "score": "64.87427546"
+        },
+        {
+            "image_id": "HorizonZeroDawn-004.mp4",
+            "ann_type": "score",
+            "score": "56.28089798"
+        },
+        {
+            "image_id": "HorizonZeroDawn-005.mp4",
+            "ann_type": "score",
+            "score": "78.88436118"
+        },
+        {
+            "image_id": "HorizonZeroDawn-006.mp4",
+            "ann_type": "score",
+            "score": "61.15578505"
+        },
+        {
+            "image_id": "HorizonZeroDawn-007.mp4",
+            "ann_type": "score",
+            "score": "51.08661108"
+        },
+        {
+            "image_id": "HorizonZeroDawn-008.mp4",
+            "ann_type": "score",
+            "score": "58.54605303"
+        },
+        {
+            "image_id": "HorizonZeroDawn-009.mp4",
+            "ann_type": "score",
+            "score": "75.08313569"
+        },
+        {
+            "image_id": "ImperatorRome-001.mp4",
+            "ann_type": "score",
+            "score": "87.16994712"
+        },
+        {
+            "image_id": "Kenshi-002.mp4",
+            "ann_type": "score",
+            "score": "72.57282279"
+        },
+        {
+            "image_id": "Kenshi-003.mp4",
+            "ann_type": "score",
+            "score": "70.67063316"
+        },
+        {
+            "image_id": "Kenshi-004.mp4",
+            "ann_type": "score",
+            "score": "66.62843522"
+        },
+        {
+            "image_id": "Kenshi-005.mp4",
+            "ann_type": "score",
+            "score": "67.13104438"
+        },
+        {
+            "image_id": "Kenshi-006.mp4",
+            "ann_type": "score",
+            "score": "57.79021289"
+        },
+        {
+            "image_id": "Kenshi-007.mp4",
+            "ann_type": "score",
+            "score": "69.50040985"
+        },
+        {
+            "image_id": "Kenshi-008.mp4",
+            "ann_type": "score",
+            "score": "58.46611351"
+        },
+        {
+            "image_id": "Kenshi-009.mp4",
+            "ann_type": "score",
+            "score": "65.59195953"
+        },
+        {
+            "image_id": "Kenshi-010.mp4",
+            "ann_type": "score",
+            "score": "55.81378896"
+        },
+        {
+            "image_id": "KibyStar-001.mp4",
+            "ann_type": "score",
+            "score": "57.92785851"
+        },
+        {
+            "image_id": "KibyStar-002.mp4",
+            "ann_type": "score",
+            "score": "49.85070905"
+        },
+        {
+            "image_id": "KibyStar-003.mp4",
+            "ann_type": "score",
+            "score": "66.41498634"
+        },
+        {
+            "image_id": "KibyStar-004.mp4",
+            "ann_type": "score",
+            "score": "55.58722616"
+        },
+        {
+            "image_id": "KibyStar-005.mp4",
+            "ann_type": "score",
+            "score": "71.56850593"
+        },
+        {
+            "image_id": "KibyStar-006.mp4",
+            "ann_type": "score",
+            "score": "72.14433052"
+        },
+        {
+            "image_id": "LOL-001.mp4",
+            "ann_type": "score",
+            "score": "55.64954441"
+        },
+        {
+            "image_id": "LOL-002.mp4",
+            "ann_type": "score",
+            "score": "68.68171237"
+        },
+        {
+            "image_id": "LOL-005.mp4",
+            "ann_type": "score",
+            "score": "85.07075275"
+        },
+        {
+            "image_id": "LOL-006.mp4",
+            "ann_type": "score",
+            "score": "85.93633403"
+        },
+        {
+            "image_id": "LOL-008.mp4",
+            "ann_type": "score",
+            "score": "94.73925922"
+        },
+        {
+            "image_id": "LOL-009.mp4",
+            "ann_type": "score",
+            "score": "94.5517268"
+        },
+        {
+            "image_id": "LOL-010.mp4",
+            "ann_type": "score",
+            "score": "94.81877461"
+        },
+        {
+            "image_id": "LOL-013.mp4",
+            "ann_type": "score",
+            "score": "89.83722172"
+        },
+        {
+            "image_id": "LOL-016.mp4",
+            "ann_type": "score",
+            "score": "90.15408343"
+        },
+        {
+            "image_id": "LOL-017.mp4",
+            "ann_type": "score",
+            "score": "89.49784649"
+        },
+        {
+            "image_id": "LOL-018.mp4",
+            "ann_type": "score",
+            "score": "93.58837176"
+        },
+        {
+            "image_id": "LOL-019.mp4",
+            "ann_type": "score",
+            "score": "89.82393997"
+        },
+        {
+            "image_id": "LOL-020.mp4",
+            "ann_type": "score",
+            "score": "90.28497084"
+        },
+        {
+            "image_id": "LOL-021.mp4",
+            "ann_type": "score",
+            "score": "86.14342241"
+        },
+        {
+            "image_id": "LOL-022.mp4",
+            "ann_type": "score",
+            "score": "89.30928965"
+        },
+        {
+            "image_id": "LOL-024.mp4",
+            "ann_type": "score",
+            "score": "79.18219632"
+        },
+        {
+            "image_id": "LOL-025.mp4",
+            "ann_type": "score",
+            "score": "79.03223319"
+        },
+        {
+            "image_id": "LOL-027.mp4",
+            "ann_type": "score",
+            "score": "73.90462137"
+        },
+        {
+            "image_id": "LOL-028.mp4",
+            "ann_type": "score",
+            "score": "64.48449395"
+        },
+        {
+            "image_id": "LOL-029.mp4",
+            "ann_type": "score",
+            "score": "50.9445574"
+        },
+        {
+            "image_id": "LOL-030.mp4",
+            "ann_type": "score",
+            "score": "80.41212087"
+        },
+        {
+            "image_id": "LOL-032.mp4",
+            "ann_type": "score",
+            "score": "82.30849946"
+        },
+        {
+            "image_id": "LOL-033.mp4",
+            "ann_type": "score",
+            "score": "47.01263384"
+        },
+        {
+            "image_id": "LOL-035.mp4",
+            "ann_type": "score",
+            "score": "53.67386491"
+        },
+        {
+            "image_id": "LOL-036.mp4",
+            "ann_type": "score",
+            "score": "59.94617774"
+        },
+        {
+            "image_id": "LOL-037.mp4",
+            "ann_type": "score",
+            "score": "45.53242397"
+        },
+        {
+            "image_id": "LOL-038.mp4",
+            "ann_type": "score",
+            "score": "55.0501492"
+        },
+        {
+            "image_id": "LOL-041.mp4",
+            "ann_type": "score",
+            "score": "39.32026028"
+        },
+        {
+            "image_id": "LOL-042.mp4",
+            "ann_type": "score",
+            "score": "33.74026948"
+        },
+        {
+            "image_id": "LOL-045.mp4",
+            "ann_type": "score",
+            "score": "33.1210751"
+        },
+        {
+            "image_id": "LOL-050.mp4",
+            "ann_type": "score",
+            "score": "71.40643915"
+        },
+        {
+            "image_id": "LOL-051.mp4",
+            "ann_type": "score",
+            "score": "41.46860724"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-001.mp4",
+            "ann_type": "score",
+            "score": "64.65843628"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-002.mp4",
+            "ann_type": "score",
+            "score": "68.3722849"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-003.mp4",
+            "ann_type": "score",
+            "score": "62.6779187"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-004.mp4",
+            "ann_type": "score",
+            "score": "63.70784733"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-005.mp4",
+            "ann_type": "score",
+            "score": "71.10483681"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-006.mp4",
+            "ann_type": "score",
+            "score": "59.92697887"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-008.mp4",
+            "ann_type": "score",
+            "score": "68.6428578"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-009.mp4",
+            "ann_type": "score",
+            "score": "58.01798884"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-011.mp4",
+            "ann_type": "score",
+            "score": "80.81606861"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-012.mp4",
+            "ann_type": "score",
+            "score": "70.62969743"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-013.mp4",
+            "ann_type": "score",
+            "score": "64.6531588"
+        },
+        {
+            "image_id": "LegendZeldaBreathWild-015.mp4",
+            "ann_type": "score",
+            "score": "57.76563525"
+        },
+        {
+            "image_id": "Minecraft-001.mp4",
+            "ann_type": "score",
+            "score": "72.43812199"
+        },
+        {
+            "image_id": "Minecraft-002.mp4",
+            "ann_type": "score",
+            "score": "59.4951393"
+        },
+        {
+            "image_id": "Minecraft-003.mp4",
+            "ann_type": "score",
+            "score": "61.09154739"
+        },
+        {
+            "image_id": "Minecraft-004.mp4",
+            "ann_type": "score",
+            "score": "53.30121289"
+        },
+        {
+            "image_id": "Minecraft-005.mp4",
+            "ann_type": "score",
+            "score": "64.75082191"
+        },
+        {
+            "image_id": "Minecraft-010.mp4",
+            "ann_type": "score",
+            "score": "73.578277"
+        },
+        {
+            "image_id": "Minecraft-012.mp4",
+            "ann_type": "score",
+            "score": "74.4100539"
+        },
+        {
+            "image_id": "Minecraft-013.mp4",
+            "ann_type": "score",
+            "score": "77.14937231"
+        },
+        {
+            "image_id": "Minecraft-025.mp4",
+            "ann_type": "score",
+            "score": "36.59743348"
+        },
+        {
+            "image_id": "Minecraft-030.mp4",
+            "ann_type": "score",
+            "score": "43.12997784"
+        },
+        {
+            "image_id": "Minecraft-031.mp4",
+            "ann_type": "score",
+            "score": "70.39950322"
+        },
+        {
+            "image_id": "Minecraft-034.mp4",
+            "ann_type": "score",
+            "score": "54.47925039"
+        },
+        {
+            "image_id": "Minecraft-035.mp4",
+            "ann_type": "score",
+            "score": "54.21281149"
+        },
+        {
+            "image_id": "Minecraft-036.mp4",
+            "ann_type": "score",
+            "score": "58.25378296"
+        },
+        {
+            "image_id": "Minecraft-038.mp4",
+            "ann_type": "score",
+            "score": "78.46364984"
+        },
+        {
+            "image_id": "Minecraft-039.mp4",
+            "ann_type": "score",
+            "score": "44.30997465"
+        },
+        {
+            "image_id": "Minecraft-043.mp4",
+            "ann_type": "score",
+            "score": "55.99850755"
+        },
+        {
+            "image_id": "Minecraft-046.mp4",
+            "ann_type": "score",
+            "score": "37.82871306"
+        },
+        {
+            "image_id": "Minecraft-048.mp4",
+            "ann_type": "score",
+            "score": "68.22743888"
+        },
+        {
+            "image_id": "Minecraft-050.mp4",
+            "ann_type": "score",
+            "score": "33.59130693"
+        },
+        {
+            "image_id": "Minecraft-052.mp4",
+            "ann_type": "score",
+            "score": "32.17295079"
+        },
+        {
+            "image_id": "Minecraft-053.mp4",
+            "ann_type": "score",
+            "score": "30.58368502"
+        },
+        {
+            "image_id": "Minecraft-054.mp4",
+            "ann_type": "score",
+            "score": "60.53546921"
+        },
+        {
+            "image_id": "Minecraft-057.mp4",
+            "ann_type": "score",
+            "score": "71.45051641"
+        },
+        {
+            "image_id": "Minecraft-061.mp4",
+            "ann_type": "score",
+            "score": "69.05490141"
+        },
+        {
+            "image_id": "Minecraft-067.mp4",
+            "ann_type": "score",
+            "score": "50.96117853"
+        },
+        {
+            "image_id": "Minecraft-075.mp4",
+            "ann_type": "score",
+            "score": "43.46380669"
+        },
+        {
+            "image_id": "Minecraft-080.mp4",
+            "ann_type": "score",
+            "score": "57.71354927"
+        },
+        {
+            "image_id": "Minecraft-088.mp4",
+            "ann_type": "score",
+            "score": "62.67875552"
+        },
+        {
+            "image_id": "Minecraft-089.mp4",
+            "ann_type": "score",
+            "score": "58.66023152"
+        },
+        {
+            "image_id": "Minecraft-093.mp4",
+            "ann_type": "score",
+            "score": "67.14939666"
+        },
+        {
+            "image_id": "Minecraft-095.mp4",
+            "ann_type": "score",
+            "score": "62.41186726"
+        },
+        {
+            "image_id": "Minecraft-099.mp4",
+            "ann_type": "score",
+            "score": "71.17575725"
+        },
+        {
+            "image_id": "Minecraft-100.mp4",
+            "ann_type": "score",
+            "score": "59.52061332"
+        },
+        {
+            "image_id": "MountBlade-001.mp4",
+            "ann_type": "score",
+            "score": "61.87046261"
+        },
+        {
+            "image_id": "MountBlade-003.mp4",
+            "ann_type": "score",
+            "score": "68.62272758"
+        },
+        {
+            "image_id": "MountBlade-004.mp4",
+            "ann_type": "score",
+            "score": "67.97683173"
+        },
+        {
+            "image_id": "MountBlade-005.mp4",
+            "ann_type": "score",
+            "score": "40.50819064"
+        },
+        {
+            "image_id": "MountBlade-007.mp4",
+            "ann_type": "score",
+            "score": "65.89155324"
+        },
+        {
+            "image_id": "NBA-001.mp4",
+            "ann_type": "score",
+            "score": "51.69304815"
+        },
+        {
+            "image_id": "NBA-003.mp4",
+            "ann_type": "score",
+            "score": "72.08140196"
+        },
+        {
+            "image_id": "NBA-004.mp4",
+            "ann_type": "score",
+            "score": "64.22275156"
+        },
+        {
+            "image_id": "NBA-005.mp4",
+            "ann_type": "score",
+            "score": "72.36795887"
+        },
+        {
+            "image_id": "NBA-006.mp4",
+            "ann_type": "score",
+            "score": "74.87687749"
+        },
+        {
+            "image_id": "NBA-007.mp4",
+            "ann_type": "score",
+            "score": "77.98859755"
+        },
+        {
+            "image_id": "NBA-008.mp4",
+            "ann_type": "score",
+            "score": "66.66743191"
+        },
+        {
+            "image_id": "NBA-009.mp4",
+            "ann_type": "score",
+            "score": "66.43572276"
+        },
+        {
+            "image_id": "NBA-010.mp4",
+            "ann_type": "score",
+            "score": "44.05926469"
+        },
+        {
+            "image_id": "NBA-011.mp4",
+            "ann_type": "score",
+            "score": "37.17853641"
+        },
+        {
+            "image_id": "NBA-012.mp4",
+            "ann_type": "score",
+            "score": "43.71035569"
+        },
+        {
+            "image_id": "NBA-013.mp4",
+            "ann_type": "score",
+            "score": "84.99870678"
+        },
+        {
+            "image_id": "Naruto-001.mp4",
+            "ann_type": "score",
+            "score": "56.92569649"
+        },
+        {
+            "image_id": "Naruto-002.mp4",
+            "ann_type": "score",
+            "score": "57.83664256"
+        },
+        {
+            "image_id": "Naruto-003.mp4",
+            "ann_type": "score",
+            "score": "56.11075035"
+        },
+        {
+            "image_id": "Naruto-004.mp4",
+            "ann_type": "score",
+            "score": "54.19761271"
+        },
+        {
+            "image_id": "NeedForSpeed-001.mp4",
+            "ann_type": "score",
+            "score": "78.59547678"
+        },
+        {
+            "image_id": "NeedForSpeed-002.mp4",
+            "ann_type": "score",
+            "score": "79.75732618"
+        },
+        {
+            "image_id": "NeedForSpeed-003.mp4",
+            "ann_type": "score",
+            "score": "86.08564856"
+        },
+        {
+            "image_id": "OctopathTraveler-001.mp4",
+            "ann_type": "score",
+            "score": "66.38240558"
+        },
+        {
+            "image_id": "Onmyoji-002.mp4",
+            "ann_type": "score",
+            "score": "89.20402345"
+        },
+        {
+            "image_id": "Onmyoji-003.mp4",
+            "ann_type": "score",
+            "score": "83.45376704"
+        },
+        {
+            "image_id": "Onmyoji-004.mp4",
+            "ann_type": "score",
+            "score": "82.22384494"
+        },
+        {
+            "image_id": "Onmyoji-005.mp4",
+            "ann_type": "score",
+            "score": "85.90034861"
+        },
+        {
+            "image_id": "Onmyoji-007.mp4",
+            "ann_type": "score",
+            "score": "75.49453298"
+        },
+        {
+            "image_id": "Onmyoji-008.mp4",
+            "ann_type": "score",
+            "score": "78.47693408"
+        },
+        {
+            "image_id": "Onmyoji-009.mp4",
+            "ann_type": "score",
+            "score": "81.19911008"
+        },
+        {
+            "image_id": "Onmyoji-010.mp4",
+            "ann_type": "score",
+            "score": "85.44967903"
+        },
+        {
+            "image_id": "Onmyoji-011.mp4",
+            "ann_type": "score",
+            "score": "86.93637299"
+        },
+        {
+            "image_id": "Overwatch-001.mp4",
+            "ann_type": "score",
+            "score": "67.6540857"
+        },
+        {
+            "image_id": "Overwatch-003.mp4",
+            "ann_type": "score",
+            "score": "91.369006"
+        },
+        {
+            "image_id": "Overwatch-004.mp4",
+            "ann_type": "score",
+            "score": "87.46149815"
+        },
+        {
+            "image_id": "Overwatch-006.mp4",
+            "ann_type": "score",
+            "score": "81.82504893"
+        },
+        {
+            "image_id": "Overwatch-007.mp4",
+            "ann_type": "score",
+            "score": "79.06337905"
+        },
+        {
+            "image_id": "Overwatch-008.mp4",
+            "ann_type": "score",
+            "score": "92.24710194"
+        },
+        {
+            "image_id": "Overwatch-010.mp4",
+            "ann_type": "score",
+            "score": "89.08411924"
+        },
+        {
+            "image_id": "Overwatch-011.mp4",
+            "ann_type": "score",
+            "score": "81.72113827"
+        },
+        {
+            "image_id": "Overwatch-012.mp4",
+            "ann_type": "score",
+            "score": "60.48021022"
+        },
+        {
+            "image_id": "Overwatch-013.mp4",
+            "ann_type": "score",
+            "score": "76.55233335"
+        },
+        {
+            "image_id": "Overwatch-014.mp4",
+            "ann_type": "score",
+            "score": "72.69771831"
+        },
+        {
+            "image_id": "Overwatch-015.mp4",
+            "ann_type": "score",
+            "score": "15.4095674"
+        },
+        {
+            "image_id": "Overwatch-016.mp4",
+            "ann_type": "score",
+            "score": "79.05241118"
+        },
+        {
+            "image_id": "Overwatch-017.mp4",
+            "ann_type": "score",
+            "score": "82.65256521"
+        },
+        {
+            "image_id": "Overwatch-019.mp4",
+            "ann_type": "score",
+            "score": "81.56366328"
+        },
+        {
+            "image_id": "Overwatch-020.mp4",
+            "ann_type": "score",
+            "score": "60.90415756"
+        },
+        {
+            "image_id": "Overwatch-022.mp4",
+            "ann_type": "score",
+            "score": "81.97290326"
+        },
+        {
+            "image_id": "Overwatch-024.mp4",
+            "ann_type": "score",
+            "score": "58.61280503"
+        },
+        {
+            "image_id": "Overwatch-025.mp4",
+            "ann_type": "score",
+            "score": "77.15493293"
+        },
+        {
+            "image_id": "Overwatch-026.mp4",
+            "ann_type": "score",
+            "score": "84.5211096"
+        },
+        {
+            "image_id": "PUBG-001.mp4",
+            "ann_type": "score",
+            "score": "30.6338343"
+        },
+        {
+            "image_id": "PUBG-002.mp4",
+            "ann_type": "score",
+            "score": "42.25720065"
+        },
+        {
+            "image_id": "PUBG-009.mp4",
+            "ann_type": "score",
+            "score": "52.01535216"
+        },
+        {
+            "image_id": "PUBG-011.mp4",
+            "ann_type": "score",
+            "score": "60.08682762"
+        },
+        {
+            "image_id": "PUBG-013.mp4",
+            "ann_type": "score",
+            "score": "38.41975169"
+        },
+        {
+            "image_id": "PUBG-016.mp4",
+            "ann_type": "score",
+            "score": "71.65489622"
+        },
+        {
+            "image_id": "PUBG-021.mp4",
+            "ann_type": "score",
+            "score": "71.74578309"
+        },
+        {
+            "image_id": "PUBG-026.mp4",
+            "ann_type": "score",
+            "score": "69.32149447"
+        },
+        {
+            "image_id": "PUBG-027.mp4",
+            "ann_type": "score",
+            "score": "69.10161585"
+        },
+        {
+            "image_id": "PUBG-028.mp4",
+            "ann_type": "score",
+            "score": "62.98068275"
+        },
+        {
+            "image_id": "PUBG-034.mp4",
+            "ann_type": "score",
+            "score": "77.43686151"
+        },
+        {
+            "image_id": "PUBG-037.mp4",
+            "ann_type": "score",
+            "score": "34.64490984"
+        },
+        {
+            "image_id": "PUBG-038.mp4",
+            "ann_type": "score",
+            "score": "47.19028535"
+        },
+        {
+            "image_id": "PUBG-039.mp4",
+            "ann_type": "score",
+            "score": "46.23782033"
+        },
+        {
+            "image_id": "PUBG-041.mp4",
+            "ann_type": "score",
+            "score": "51.13846205"
+        },
+        {
+            "image_id": "PUBG-042.mp4",
+            "ann_type": "score",
+            "score": "47.54329173"
+        },
+        {
+            "image_id": "PUBG-044.mp4",
+            "ann_type": "score",
+            "score": "38.48818924"
+        },
+        {
+            "image_id": "PUBG-051.mp4",
+            "ann_type": "score",
+            "score": "78.60192805"
+        },
+        {
+            "image_id": "PUBG-052.mp4",
+            "ann_type": "score",
+            "score": "79.85634775"
+        },
+        {
+            "image_id": "PUBG-055.mp4",
+            "ann_type": "score",
+            "score": "72.33484066"
+        },
+        {
+            "image_id": "PUBG-056.mp4",
+            "ann_type": "score",
+            "score": "55.63796658"
+        },
+        {
+            "image_id": "PUBG-057.mp4",
+            "ann_type": "score",
+            "score": "55.76019692"
+        },
+        {
+            "image_id": "PUBG-062.mp4",
+            "ann_type": "score",
+            "score": "79.89099738"
+        },
+        {
+            "image_id": "PUBG-066.mp4",
+            "ann_type": "score",
+            "score": "32.95135142"
+        },
+        {
+            "image_id": "PUBG-067.mp4",
+            "ann_type": "score",
+            "score": "38.18765567"
+        },
+        {
+            "image_id": "PUBG-072.mp4",
+            "ann_type": "score",
+            "score": "78.87884504"
+        },
+        {
+            "image_id": "PUBG-074.mp4",
+            "ann_type": "score",
+            "score": "74.41793323"
+        },
+        {
+            "image_id": "PUBG-079.mp4",
+            "ann_type": "score",
+            "score": "64.41568531"
+        },
+        {
+            "image_id": "PUBG-083.mp4",
+            "ann_type": "score",
+            "score": "80.20412574"
+        },
+        {
+            "image_id": "PUBG-088.mp4",
+            "ann_type": "score",
+            "score": "71.35714417"
+        },
+        {
+            "image_id": "PUBG-089.mp4",
+            "ann_type": "score",
+            "score": "91.82930323"
+        },
+        {
+            "image_id": "PUBG-090.mp4",
+            "ann_type": "score",
+            "score": "33.99245676"
+        },
+        {
+            "image_id": "PUBG-092.mp4",
+            "ann_type": "score",
+            "score": "49.6340142"
+        },
+        {
+            "image_id": "PlantZombies-001.mp4",
+            "ann_type": "score",
+            "score": "45.56745156"
+        },
+        {
+            "image_id": "PlantZombies-002.mp4",
+            "ann_type": "score",
+            "score": "67.38893081"
+        },
+        {
+            "image_id": "PlantZombies-004.mp4",
+            "ann_type": "score",
+            "score": "51.8435938"
+        },
+        {
+            "image_id": "PlantZombies-005.mp4",
+            "ann_type": "score",
+            "score": "73.81350864"
+        },
+        {
+            "image_id": "Pokemon-003.mp4",
+            "ann_type": "score",
+            "score": "83.7782299"
+        },
+        {
+            "image_id": "Pokemon-004.mp4",
+            "ann_type": "score",
+            "score": "79.29416492"
+        },
+        {
+            "image_id": "Pokemon-005.mp4",
+            "ann_type": "score",
+            "score": "86.84879109"
+        },
+        {
+            "image_id": "Pokemon-006.mp4",
+            "ann_type": "score",
+            "score": "83.80469663"
+        },
+        {
+            "image_id": "Pokemon-007.mp4",
+            "ann_type": "score",
+            "score": "87.6447625"
+        },
+        {
+            "image_id": "Pokemon-008.mp4",
+            "ann_type": "score",
+            "score": "85.02818957"
+        },
+        {
+            "image_id": "Pokemon-012.mp4",
+            "ann_type": "score",
+            "score": "93.06904639"
+        },
+        {
+            "image_id": "Pokemon-014.mp4",
+            "ann_type": "score",
+            "score": "52.36768622"
+        },
+        {
+            "image_id": "Pokemon-015.mp4",
+            "ann_type": "score",
+            "score": "72.99339277"
+        },
+        {
+            "image_id": "RDR-051.mp4",
+            "ann_type": "score",
+            "score": "42.39179579"
+        },
+        {
+            "image_id": "RDR-052.mp4",
+            "ann_type": "score",
+            "score": "72.69162825"
+        },
+        {
+            "image_id": "RDR-053.mp4",
+            "ann_type": "score",
+            "score": "51.11007752"
+        },
+        {
+            "image_id": "RDR-054.mp4",
+            "ann_type": "score",
+            "score": "71.92877186"
+        },
+        {
+            "image_id": "RDR-055.mp4",
+            "ann_type": "score",
+            "score": "64.40493965"
+        },
+        {
+            "image_id": "RDR-056.mp4",
+            "ann_type": "score",
+            "score": "51.83788772"
+        },
+        {
+            "image_id": "RDR-057.mp4",
+            "ann_type": "score",
+            "score": "65.84233083"
+        },
+        {
+            "image_id": "RDR-058.mp4",
+            "ann_type": "score",
+            "score": "55.04024659"
+        },
+        {
+            "image_id": "RDR-059.mp4",
+            "ann_type": "score",
+            "score": "63.3813216"
+        },
+        {
+            "image_id": "RDR-060.mp4",
+            "ann_type": "score",
+            "score": "58.53047246"
+        },
+        {
+            "image_id": "RDR-071.mp4",
+            "ann_type": "score",
+            "score": "69.74141479"
+        },
+        {
+            "image_id": "RDR-072.mp4",
+            "ann_type": "score",
+            "score": "61.45098245"
+        },
+        {
+            "image_id": "RDR-073.mp4",
+            "ann_type": "score",
+            "score": "62.8352357"
+        },
+        {
+            "image_id": "RDR-074.mp4",
+            "ann_type": "score",
+            "score": "69.1368675"
+        },
+        {
+            "image_id": "RDR-075.mp4",
+            "ann_type": "score",
+            "score": "74.02841867"
+        },
+        {
+            "image_id": "RDR2-001.mp4",
+            "ann_type": "score",
+            "score": "76.09443316"
+        },
+        {
+            "image_id": "RDR2-002.mp4",
+            "ann_type": "score",
+            "score": "72.55975269"
+        },
+        {
+            "image_id": "RDR2-004.mp4",
+            "ann_type": "score",
+            "score": "60.88851025"
+        },
+        {
+            "image_id": "RDR2-006.mp4",
+            "ann_type": "score",
+            "score": "71.66677287"
+        },
+        {
+            "image_id": "RDR2-007.mp4",
+            "ann_type": "score",
+            "score": "62.7698081"
+        },
+        {
+            "image_id": "RDR2-008.mp4",
+            "ann_type": "score",
+            "score": "68.18000676"
+        },
+        {
+            "image_id": "RDR2-009.mp4",
+            "ann_type": "score",
+            "score": "70.12571222"
+        },
+        {
+            "image_id": "RDR2-015.mp4",
+            "ann_type": "score",
+            "score": "81.76042604"
+        },
+        {
+            "image_id": "ResidentEvil-002.mp4",
+            "ann_type": "score",
+            "score": "58.23809138"
+        },
+        {
+            "image_id": "ResidentEvil-003.mp4",
+            "ann_type": "score",
+            "score": "77.86553216"
+        },
+        {
+            "image_id": "ResidentEvil-004.mp4",
+            "ann_type": "score",
+            "score": "90.72480447"
+        },
+        {
+            "image_id": "ResidentEvil-005.mp4",
+            "ann_type": "score",
+            "score": "78.30023761"
+        },
+        {
+            "image_id": "ResidentEvil-007.mp4",
+            "ann_type": "score",
+            "score": "63.64256286"
+        },
+        {
+            "image_id": "ResidentEvil-008.mp4",
+            "ann_type": "score",
+            "score": "63.00089885"
+        },
+        {
+            "image_id": "Roblox-001.mp4",
+            "ann_type": "score",
+            "score": "73.24272193"
+        },
+        {
+            "image_id": "Roblox-003.mp4",
+            "ann_type": "score",
+            "score": "50.91937256"
+        },
+        {
+            "image_id": "Roblox-004.mp4",
+            "ann_type": "score",
+            "score": "67.33129885"
+        },
+        {
+            "image_id": "Roblox-006.mp4",
+            "ann_type": "score",
+            "score": "56.4045482"
+        },
+        {
+            "image_id": "Roblox-007.mp4",
+            "ann_type": "score",
+            "score": "61.32554164"
+        },
+        {
+            "image_id": "Roblox-008.mp4",
+            "ann_type": "score",
+            "score": "29.59860519"
+        },
+        {
+            "image_id": "RocketLeague-001.mp4",
+            "ann_type": "score",
+            "score": "75.90754449"
+        },
+        {
+            "image_id": "RocketLeague-002.mp4",
+            "ann_type": "score",
+            "score": "63.44296107"
+        },
+        {
+            "image_id": "RocketLeague-003.mp4",
+            "ann_type": "score",
+            "score": "71.55786552"
+        },
+        {
+            "image_id": "RocketLeague-006.mp4",
+            "ann_type": "score",
+            "score": "59.53446333"
+        },
+        {
+            "image_id": "RocketLeague-007.mp4",
+            "ann_type": "score",
+            "score": "40.01514964"
+        },
+        {
+            "image_id": "RocketLeague-008.mp4",
+            "ann_type": "score",
+            "score": "47.05791304"
+        },
+        {
+            "image_id": "SC2-001.mp4",
+            "ann_type": "score",
+            "score": "77.51979292"
+        },
+        {
+            "image_id": "SC2-002.mp4",
+            "ann_type": "score",
+            "score": "64.40281176"
+        },
+        {
+            "image_id": "SC2-003.mp4",
+            "ann_type": "score",
+            "score": "69.09461452"
+        },
+        {
+            "image_id": "SC2-004.mp4",
+            "ann_type": "score",
+            "score": "57.35484847"
+        },
+        {
+            "image_id": "SC2-005.mp4",
+            "ann_type": "score",
+            "score": "69.66748689"
+        },
+        {
+            "image_id": "Sekiro-003.mp4",
+            "ann_type": "score",
+            "score": "87.49862674"
+        },
+        {
+            "image_id": "Sekiro-004.mp4",
+            "ann_type": "score",
+            "score": "83.17732082"
+        },
+        {
+            "image_id": "Sekiro-005.mp4",
+            "ann_type": "score",
+            "score": "94.09474231"
+        },
+        {
+            "image_id": "Sekiro-007.mp4",
+            "ann_type": "score",
+            "score": "88.85777607"
+        },
+        {
+            "image_id": "Sekiro-008.mp4",
+            "ann_type": "score",
+            "score": "92.43975158"
+        },
+        {
+            "image_id": "Sekiro-010.mp4",
+            "ann_type": "score",
+            "score": "89.45134206"
+        },
+        {
+            "image_id": "Sekiro-011.mp4",
+            "ann_type": "score",
+            "score": "85.66071414"
+        },
+        {
+            "image_id": "Sekiro-012.mp4",
+            "ann_type": "score",
+            "score": "79.9755832"
+        },
+        {
+            "image_id": "Sekiro-015.mp4",
+            "ann_type": "score",
+            "score": "79.75853433"
+        },
+        {
+            "image_id": "Sekiro-016.mp4",
+            "ann_type": "score",
+            "score": "84.02610216"
+        },
+        {
+            "image_id": "Sekiro-018.mp4",
+            "ann_type": "score",
+            "score": "81.73013723"
+        },
+        {
+            "image_id": "Sekiro-019.mp4",
+            "ann_type": "score",
+            "score": "79.79803621"
+        },
+        {
+            "image_id": "Sekiro-021.mp4",
+            "ann_type": "score",
+            "score": "76.83313855"
+        },
+        {
+            "image_id": "Sekiro-023.mp4",
+            "ann_type": "score",
+            "score": "70.21267698"
+        },
+        {
+            "image_id": "Sekiro-024.mp4",
+            "ann_type": "score",
+            "score": "72.11872067"
+        },
+        {
+            "image_id": "Sekiro-025.mp4",
+            "ann_type": "score",
+            "score": "80.97184799"
+        },
+        {
+            "image_id": "Sekiro-026.mp4",
+            "ann_type": "score",
+            "score": "78.33042396"
+        },
+        {
+            "image_id": "Sekiro-027.mp4",
+            "ann_type": "score",
+            "score": "72.74882055"
+        },
+        {
+            "image_id": "Sekiro-028.mp4",
+            "ann_type": "score",
+            "score": "72.20692958"
+        },
+        {
+            "image_id": "Sekiro-029.mp4",
+            "ann_type": "score",
+            "score": "76.19543559"
+        },
+        {
+            "image_id": "SilentHunter-001.mp4",
+            "ann_type": "score",
+            "score": "50.19161315"
+        },
+        {
+            "image_id": "SpiderMan-001.mp4",
+            "ann_type": "score",
+            "score": "70.36523677"
+        },
+        {
+            "image_id": "Stellaris-001.mp4",
+            "ann_type": "score",
+            "score": "89.1053309"
+        },
+        {
+            "image_id": "StreetFighter-001.mp4",
+            "ann_type": "score",
+            "score": "30.37871454"
+        },
+        {
+            "image_id": "StreetFighter-003.mp4",
+            "ann_type": "score",
+            "score": "20.30529714"
+        },
+        {
+            "image_id": "StreetFighter-004.mp4",
+            "ann_type": "score",
+            "score": "66.11862165"
+        },
+        {
+            "image_id": "StreetFighter-005.mp4",
+            "ann_type": "score",
+            "score": "61.61418725"
+        },
+        {
+            "image_id": "StreetFighter-006.mp4",
+            "ann_type": "score",
+            "score": "18.00243567"
+        },
+        {
+            "image_id": "StreetFighter-007.mp4",
+            "ann_type": "score",
+            "score": "28.63365314"
+        },
+        {
+            "image_id": "StreetFighter-009.mp4",
+            "ann_type": "score",
+            "score": "62.3095865"
+        },
+        {
+            "image_id": "StreetFighter-010.mp4",
+            "ann_type": "score",
+            "score": "57.4262646"
+        },
+        {
+            "image_id": "StreetFighter-012.mp4",
+            "ann_type": "score",
+            "score": "62.87496345"
+        },
+        {
+            "image_id": "StreetFighter-013.mp4",
+            "ann_type": "score",
+            "score": "55.98858597"
+        },
+        {
+            "image_id": "StreetFighter-014.mp4",
+            "ann_type": "score",
+            "score": "62.09267966"
+        },
+        {
+            "image_id": "StreetFighter-015.mp4",
+            "ann_type": "score",
+            "score": "65.25985857"
+        },
+        {
+            "image_id": "StreetFighter-016.mp4",
+            "ann_type": "score",
+            "score": "63.49870949"
+        },
+        {
+            "image_id": "StreetFighter-017.mp4",
+            "ann_type": "score",
+            "score": "56.06072326"
+        },
+        {
+            "image_id": "StreetFighter-018.mp4",
+            "ann_type": "score",
+            "score": "78.26963753"
+        },
+        {
+            "image_id": "StreetFighter-019.mp4",
+            "ann_type": "score",
+            "score": "80.11903658"
+        },
+        {
+            "image_id": "StreetFighter-020.mp4",
+            "ann_type": "score",
+            "score": "80.27792196"
+        },
+        {
+            "image_id": "SuperSmashBros-001.mp4",
+            "ann_type": "score",
+            "score": "88.58793875"
+        },
+        {
+            "image_id": "SuperSmashBros-003.mp4",
+            "ann_type": "score",
+            "score": "88.69677782"
+        },
+        {
+            "image_id": "SuperSmashBros-004.mp4",
+            "ann_type": "score",
+            "score": "87.18182996"
+        },
+        {
+            "image_id": "SuperSmashBros-005.mp4",
+            "ann_type": "score",
+            "score": "86.37985122"
+        },
+        {
+            "image_id": "SuperSmashBros-007.mp4",
+            "ann_type": "score",
+            "score": "45.57468844"
+        },
+        {
+            "image_id": "SuperSmashBros-008.mp4",
+            "ann_type": "score",
+            "score": "55.81054414"
+        },
+        {
+            "image_id": "SuperSmashBros-009.mp4",
+            "ann_type": "score",
+            "score": "92.5047835"
+        },
+        {
+            "image_id": "SuperSmashBros-010.mp4",
+            "ann_type": "score",
+            "score": "92.38781662"
+        },
+        {
+            "image_id": "SuperSmashBros-011.mp4",
+            "ann_type": "score",
+            "score": "83.19491933"
+        },
+        {
+            "image_id": "SuperSmashBros-012.mp4",
+            "ann_type": "score",
+            "score": "95.15880714"
+        },
+        {
+            "image_id": "SuperSmashBros-013.mp4",
+            "ann_type": "score",
+            "score": "83.87009282"
+        },
+        {
+            "image_id": "SuperSmashBros-014.mp4",
+            "ann_type": "score",
+            "score": "88.02795569"
+        },
+        {
+            "image_id": "SuperSmashBros-015.mp4",
+            "ann_type": "score",
+            "score": "87.92164"
+        },
+        {
+            "image_id": "SuperSmashBros-016.mp4",
+            "ann_type": "score",
+            "score": "92.15921388"
+        },
+        {
+            "image_id": "SuperSmashBros-017.mp4",
+            "ann_type": "score",
+            "score": "65.19220987"
+        },
+        {
+            "image_id": "TheWitcher-001.mp4",
+            "ann_type": "score",
+            "score": "74.78839278"
+        },
+        {
+            "image_id": "TheWitcher-004.mp4",
+            "ann_type": "score",
+            "score": "80.98441471"
+        },
+        {
+            "image_id": "TheWitcher-005.mp4",
+            "ann_type": "score",
+            "score": "79.53721413"
+        },
+        {
+            "image_id": "TheWitcher-006.mp4",
+            "ann_type": "score",
+            "score": "89.28792301"
+        },
+        {
+            "image_id": "TheWitcher-007.mp4",
+            "ann_type": "score",
+            "score": "76.68904434"
+        },
+        {
+            "image_id": "TotalWar-002.mp4",
+            "ann_type": "score",
+            "score": "77.99549716"
+        },
+        {
+            "image_id": "TotalWar-006.mp4",
+            "ann_type": "score",
+            "score": "71.89184121"
+        },
+        {
+            "image_id": "TotalWar-008.mp4",
+            "ann_type": "score",
+            "score": "77.91476327"
+        },
+        {
+            "image_id": "TotalWar-015.mp4",
+            "ann_type": "score",
+            "score": "79.96707539"
+        },
+        {
+            "image_id": "TotalWar-019.mp4",
+            "ann_type": "score",
+            "score": "80.48472178"
+        },
+        {
+            "image_id": "WOW-001.mp4",
+            "ann_type": "score",
+            "score": "36.21439745"
+        },
+        {
+            "image_id": "WOW-002.mp4",
+            "ann_type": "score",
+            "score": "47.77040367"
+        },
+        {
+            "image_id": "WOW-004.mp4",
+            "ann_type": "score",
+            "score": "35.82002621"
+        },
+        {
+            "image_id": "WOW-005.mp4",
+            "ann_type": "score",
+            "score": "33.92120908"
+        },
+        {
+            "image_id": "WOW-006.mp4",
+            "ann_type": "score",
+            "score": "56.00488074"
+        },
+        {
+            "image_id": "WOW-007.mp4",
+            "ann_type": "score",
+            "score": "35.00877354"
+        },
+        {
+            "image_id": "WOW-008.mp4",
+            "ann_type": "score",
+            "score": "27.25657482"
+        },
+        {
+            "image_id": "WOW-009.mp4",
+            "ann_type": "score",
+            "score": "43.77725453"
+        },
+        {
+            "image_id": "WOW-010.mp4",
+            "ann_type": "score",
+            "score": "42.33596029"
+        },
+        {
+            "image_id": "WOW-011.mp4",
+            "ann_type": "score",
+            "score": "21.11026604"
+        },
+        {
+            "image_id": "WOW-013.mp4",
+            "ann_type": "score",
+            "score": "34.98354768"
+        },
+        {
+            "image_id": "WOW-014.mp4",
+            "ann_type": "score",
+            "score": "57.58143809"
+        },
+        {
+            "image_id": "WorldTanks-001.mp4",
+            "ann_type": "score",
+            "score": "70.38009779"
+        },
+        {
+            "image_id": "WorldTanks-003.mp4",
+            "ann_type": "score",
+            "score": "73.22313936"
+        },
+        {
+            "image_id": "WorldTanks-005.mp4",
+            "ann_type": "score",
+            "score": "68.35261705"
+        },
+        {
+            "image_id": "WorldTanks-006.mp4",
+            "ann_type": "score",
+            "score": "67.6578213"
+        },
+        {
+            "image_id": "WorldTanks-007.mp4",
+            "ann_type": "score",
+            "score": "71.06775689"
+        },
+        {
+            "image_id": "WorldTanks-008.mp4",
+            "ann_type": "score",
+            "score": "75.69491534"
+        },
+        {
+            "image_id": "WorldTanks-009.mp4",
+            "ann_type": "score",
+            "score": "76.76098519"
+        },
+        {
+            "image_id": "WorldTanks-010.mp4",
+            "ann_type": "score",
+            "score": "75.66480659"
+        },
+        {
+            "image_id": "WorldTanks-011.mp4",
+            "ann_type": "score",
+            "score": "76.84708215"
+        },
+        {
+            "image_id": "WorldTanks-012.mp4",
+            "ann_type": "score",
+            "score": "67.33787768"
+        },
+        {
+            "image_id": "WorldTanks-030.mp4",
+            "ann_type": "score",
+            "score": "70.2116269"
+        }
+    ]
+}

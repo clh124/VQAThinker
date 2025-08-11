@@ -1,0 +1,20 @@
+pip install torch==2.6.0
+pip install torchvision==0.21.0
+pip install transformers==4.49.0
+pip install wandb==0.18.3
+pip install tensorboardx
+pip install slowfast_r50
+pip install timm
+pip install decord
+pip install pytorchvideo
+pip install flash-attn --no-build-isolation
+pip install babel
+pip install python-Levenshtein
+pip install matplotlib
+pip install pycocotools
+pip install openai
+pip install httpx[socks]
+pip install pandas
+pip install scipy
+pip install einops>=0.8.0
+pip install accelerate>=1.2.1
