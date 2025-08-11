@@ -37,7 +37,9 @@ This is the official code of VQAThinker, the first open-source NR-VQA model enha
 <sup>*</sup>Project lead. <sup>#</sup>Corresponding authors. 
 
 <div align="left">
+
 ## Abstract
+
 Video quality assessment (VQA) aims to objectively quantify perceptual quality degradation in alignment with human visual perception. Despite recent advances, existing VQA models still suffer from two critical limitations: *poor generalization to out-of-distribution (OOD) videos* and *limited explainability*, which restrict their applicability in real-world scenarios. 
 
 To address these challenges, we propose **VQAThinker**, a reasoning-based VQA framework that leverages large multimodal models (LMMs) with reinforcement learning to jointly model video quality understanding and scoring, emulating human perceptual decision-making. 
