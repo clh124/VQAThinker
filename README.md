@@ -64,7 +64,7 @@ bash setup.sh
 You need to download the pre-trained model weights before running inference: [InternVL3-VQAThinker-8B](https://huggingface.co/kkkkkklinhan/InternVL3-VQAThinker-8B).
 
 
-The weights will be saved in the folder `InternVL3-VQAThinker-8B/`.
+The weights should be saved in the folder `InternVL3-VQAThinker-8B/`.
 
 ---
 
@@ -100,3 +100,5 @@ Before running, please modify the parameters in `batch_infer.py`:
 
 **Note:** The default `batch_size` is **16**, which requires **at least 48 GB of GPU memory** for testing.  
 Adjust `batch_size` according to your available GPU memory.
+
+
