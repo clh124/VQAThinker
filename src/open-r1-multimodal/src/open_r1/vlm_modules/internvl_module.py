@@ -254,7 +254,7 @@ class InvernVLModule(VLMBaseModule):
                 if is_shuffle:
                     mode = random.choice(["shuffle", "local_shuffle", "reverse", "jitter", "duplicate", "random_drop"])
                     pixel_values = apply_temporal_perturbation(pixel_values, mode=mode)
-                    # print(f"应用时间扰乱模式: {mode}")
+                   
                     # print("pixel_values", pixel_values.shape)
 
                 # print("num_patches_list", num_patch_list)
