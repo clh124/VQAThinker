@@ -9,8 +9,8 @@
    </div>
 
   <div>
-      <a href="https://scholar.google.com/citations?user=WmE6necAAAAJ&hl=zh-CN" target="_blank">Linhan Cao</a><sup>1</sup>,
-      <a href="https://scholar.google.com/citations?hl=zh-CN&user=nDlEBJ8AAAAJ" target="_blank">Wei Sun</a><sup>2</sup><sup>*</sup><sup>#</sup>,
+      <a href="https://scholar.google.com/citations?user=WmE6necAAAAJ&hl=zh-CN" target="_blank">Linhan Cao</a><sup>1</sup><sup>*</sup>,
+      <a href="https://scholar.google.com/citations?hl=zh-CN&user=nDlEBJ8AAAAJ" target="_blank">Wei Sun</a><sup>2</sup><sup>*</sup>,
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=KK2nLnQAAAAJ" target="_blank">Weixia Zhang</a><sup>1</sup>,
       <a href="https://scholar.google.com/citations?hl=zh-CN&user=k7YfbnEAAAAJ" target="_blank">Xiangyang Zhu</a><sup>3</sup>,
       Jun Jia<sup>1</sup>,
@@ -28,7 +28,7 @@
   <sup>1</sup>Shanghai Jiaotong University,  <sup>2</sup>East China Normal University, <sup>3</sup>Shanghai Artificial Intelligence Laboratory
        </div>   
 <div>
-<sup>*</sup>Project lead. <sup>#</sup>Corresponding authors. 
+<sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author. 
 
 
 This is the official code of VQAThinker, the first open-source NR-VQA model enhanced via reinforcement learning, capable of performing both video quality scoring and understanding.
@@ -91,6 +91,7 @@ The weights should be saved in the folder `InternVL3-VQAThinker-8B/`.
 ### 2. Single video quality evaluation
 
 ```shell
+cd test
 python single_infer.py
 ```
 
@@ -105,6 +106,7 @@ Before running, please modify the parameters in `single_infer.py`:
 ### 3. Batch videos quality evaluation
 
 ```shell
+cd test
 python batch_infer.py
 ```
 
