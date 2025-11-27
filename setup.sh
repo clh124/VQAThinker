@@ -1,20 +1,21 @@
-pip install torch==2.6.0
-pip install torchvision==0.21.0
-pip install transformers==4.49.0
+# conda create -n vlm-r1 python=3.11 
+# conda activate vlm-r1
+
+# Install the packages in open-r1-multimodal .
+cd src/open-r1-multimodal # We edit the grpo.py and grpo_trainer.py in open-r1 repo.
+pip install -e ".[dev]"
+
+# Addtional modules
 pip install wandb==0.18.3
 pip install tensorboardx
-pip install slowfast_r50
-pip install timm
-pip install decord
-pip install pytorchvideo
-pip install flash-attn --no-build-isolation
+pip install qwen_vl_utils==0.0.10
+pip install torchvision==0.21.0
 pip install babel
 pip install python-Levenshtein
 pip install matplotlib
 pip install pycocotools
 pip install openai
+pip install json_repair
 pip install httpx[socks]
-pip install pandas
-pip install scipy
-pip install einops>=0.8.0
-pip install accelerate>=1.2.1
+pip install optimum
+pip install flash-attn==2.7.4.post1

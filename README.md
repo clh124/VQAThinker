@@ -64,7 +64,9 @@ Extensive experiments demonstrate that VQAThinker achieves state-of-the-art perf
 <div align="left">
 
 ## Release
-- [08/11/25] 🤗 Released the inference code.
+- [2025/11/28] 🔥 Released the training code.
+- [2025/08/11] 🤗 Released the inference code.
+
 
 
 ## Installation
@@ -123,3 +125,16 @@ Before running, please modify the parameters in `batch_infer.py`:
 Adjust `batch_size` according to your available GPU memory.
 
 
+## Quick Training
+
+```shell
+cd train
+```
+
+First, replace the modeling_internvl_chat.py file under the InternVL3-8B/ checkpoint directory with the one provided in [there](https://github.com/clh124/VQAThinker/tree/main/train/modeling_internvl_chat.py).
+
+```shell
+bash run_scripts/run_grpo_vqa_internvl.sh
+```
+
+To enable the temporal reward, set the `--temporal` flag to `true`.
