@@ -146,10 +146,29 @@ To enable the temporal reward, set the `--temporal` flag to `true`.
 
 ### Data Preparation
 
-For using your own dataset, please format the data as a JSONL file. The expected format is shown below:
+For using your own dataset, please format the data as [a JSONL file](https://github.com/clh124/VQAThinker/blob/main/train/src/open-r1-multimodal/data_jsonl/LSVQ_labels_train.jsonl). The expected format is shown below:
 
 ```markdown
 ```json
 {"id": 0, "dataset_name": "LSVQ", "image": ["yfcc-batch6/4134.mp4"], "conversations": [{"from": "human", "value": "You are doing the video quality assessment task. Here is the question: What is your overall rating on the quality of this video? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality."}, {"from": "gpt", "value": 2.611842}]}
 {"id": 1, "dataset_name": "LSVQ", "image": ["ia-batch14/btvnj-MIF_711_Holiday_Fire_Safety.mp4"], "conversations": [{"from": "human", "value": "You are doing the video quality assessment task. Here is the question: What is your overall rating on the quality of this video? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality."}, {"from": "gpt", "value": 3.232857}]}
 ...
+```
+
+## Citation
+**If you find this code is useful for  your research, please cite**:
+
+```latex
+@article{cao2025vqathinker,
+  title={Vqathinker: Exploring generalizable and explainable video quality assessment via reinforcement learning},
+  author={Cao, Linhan and Sun, Wei and Zhang, Weixia and Zhu, Xiangyang and Jia, Jun and Zhang, Kaiwei and Zhu, Dandan and Zhai, Guangtao and Min, Xiongkuo},
+  journal={arXiv preprint arXiv:2508.06051},
+  year={2025}
+}
+```
+
+## Acknowledgement
+
+1. <https://github.com/om-ai-lab/VLM-R1>
+2. <https://github.com/TianheWu/VisualQuality-R1>
+3. <https://github.com/tulerfeng/Video-R1>
