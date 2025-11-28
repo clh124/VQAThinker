@@ -77,8 +77,10 @@ conda activate vqathinker
 bash setup.sh
 ```
 
-## Quick Inference
-
+## Inference
+```shell
+cd test
+```
 
 ### 1. Download model weights
 
@@ -87,13 +89,16 @@ You need to download the pre-trained model weights before running inference: [In
 
 The weights should be saved in the folder `InternVL3-VQAThinker-8B/`.
 
+
+Note: When evaluating your own fine-tuned checkpoint, please replace the `modeling_internvl_chat.py` file in the checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/test/modeling_internvl_chat.py) provided in the `test` directory.
+
+
 ---
 
 
 ### 2. Single video quality evaluation
 
 ```shell
-cd test
 python single_infer.py
 ```
 
@@ -108,7 +113,6 @@ Before running, please modify the parameters in `single_infer.py`:
 ### 3. Batch videos quality evaluation
 
 ```shell
-cd test
 python batch_infer.py
 ```
 
@@ -125,16 +129,27 @@ Before running, please modify the parameters in `batch_infer.py`:
 Adjust `batch_size` according to your available GPU memory.
 
 
-## Quick Training
+## Training
 
 ```shell
 cd train
 ```
 
-First, replace the modeling_internvl_chat.py file under the InternVL3-8B/ checkpoint directory with the one provided in [there](https://github.com/clh124/VQAThinker/tree/main/train/modeling_internvl_chat.py).
+First, replace the `modeling_internvl_chat.py` file under the [InternVL3-8B/](https://huggingface.co/OpenGVLab/InternVL3-8B) checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/train/modeling_internvl_chat.py) provided in the `train` directory.
 
 ```shell
 bash run_scripts/run_grpo_vqa_internvl.sh
 ```
 
 To enable the temporal reward, set the `--temporal` flag to `true`.
+
+
+### Data Preparation
+
+For using your own dataset, please format the data as a JSONL file. The expected format is shown below:
+
+```markdown
+```json
+{"id": 0, "dataset_name": "LSVQ", "image": ["yfcc-batch6/4134.mp4"], "conversations": [{"from": "human", "value": "You are doing the video quality assessment task. Here is the question: What is your overall rating on the quality of this video? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality."}, {"from": "gpt", "value": 2.611842}]}
+{"id": 1, "dataset_name": "LSVQ", "image": ["ia-batch14/btvnj-MIF_711_Holiday_Fire_Safety.mp4"], "conversations": [{"from": "human", "value": "You are doing the video quality assessment task. Here is the question: What is your overall rating on the quality of this video? The rating should be a float between 1 and 5, rounded to two decimal places, with 1 representing very poor quality and 5 representing excellent quality."}, {"from": "gpt", "value": 3.232857}]}
+...
