@@ -65,7 +65,7 @@ Extensive experiments demonstrate that VQAThinker achieves state-of-the-art perf
 
 ## 🚀 Release
 - [2025/11/28] 🔥 Released the training code.
-- [2025/11/08] 🔥 VQAThinker is accepted by AAAI 206!
+- [2025/11/08] 🔥 VQAThinker is accepted by AAAI 2026!
 - [2025/08/11] 🔥 Released the inference code and weight.
 
 
