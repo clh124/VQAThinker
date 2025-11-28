@@ -41,7 +41,7 @@ This is the official code of VQAThinker, the first open-source NR-VQA model enha
 
 <div align="left">
 
-## Abstract
+## 🧠 Abstract
 
 Video quality assessment (VQA) aims to objectively quantify perceptual quality degradation in alignment with human visual perception. Despite recent advances, existing VQA models still suffer from two critical limitations: *poor generalization to out-of-distribution (OOD) videos* and *limited explainability*, which restrict their applicability in real-world scenarios. 
 
@@ -54,7 +54,7 @@ Specifically, we adopt group relative policy optimization (GRPO), a rule-guided 
 
 Extensive experiments demonstrate that VQAThinker achieves state-of-the-art performance on both in-domain and OOD VQA benchmarks, showing strong generalization for video quality scoring. Furthermore, evaluations on video quality understanding tasks validate its superiority in distortion attribution and quality description compared to existing explainable VQA models and LMMs. These findings demonstrate that reinforcement learning offers an effective pathway toward building generalizable and explainable VQA models solely with score-level supervision.
 
-## Model Architecture
+## 🏗️ Model Architecture
 
 <p align="center">
     <img src="images/model.png" style="max-width:100%; height:auto;">
@@ -63,13 +63,14 @@ Extensive experiments demonstrate that VQAThinker achieves state-of-the-art perf
 
 <div align="left">
 
-## Release
+🚀 Release
 - [2025/11/28] 🔥 Released the training code.
-- [2025/08/11] 🤗 Released the inference code.
+- [2025/11/08] 🔥 VQAThinker is accepted by AAAI 206!
+- [2025/08/11] 🔥 Released the inference code.
 
 
 
-## Installation
+## ⚙️ Installation
 
 ```bash
 conda create -n vqathinker python=3.11
@@ -77,20 +78,20 @@ conda activate vqathinker
 bash setup.sh
 ```
 
-## Inference
+## 🔍 Inference
 ```shell
 cd test
 ```
 
 ### 1. Download model weights
 
-You need to download the pre-trained model weights before running inference: [InternVL3-VQAThinker-8B](https://huggingface.co/kkkkkklinhan/InternVL3-VQAThinker-8B).
+You need to download the pre-trained model weights before running inference: 👉[InternVL3-VQAThinker-8B](https://huggingface.co/kkkkkklinhan/InternVL3-VQAThinker-8B).
 
 
 The weights should be saved in the folder `InternVL3-VQAThinker-8B/`.
 
 
-Note: When evaluating your own fine-tuned checkpoint, please replace the `modeling_internvl_chat.py` file in the checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/test/modeling_internvl_chat.py) provided in the `test` directory.
+⚠️ Note: When evaluating your own fine-tuned checkpoint, please replace the `modeling_internvl_chat.py` file in the checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/test/modeling_internvl_chat.py) provided in the `test` directory.
 
 
 ---
@@ -129,7 +130,7 @@ Before running, please modify the parameters in `batch_infer.py`:
 Adjust `batch_size` according to your available GPU memory.
 
 
-## Training
+## 🧪 Training
 
 ```shell
 cd train
@@ -144,7 +145,7 @@ bash run_scripts/run_grpo_vqa_internvl.sh
 To enable the temporal reward, set the `--temporal` flag to `true`.
 
 
-### Data Preparation
+### Training Data Preparation
 
 For using your own dataset, please format the data as [a JSONL file](https://github.com/clh124/VQAThinker/blob/main/train/src/open-r1-multimodal/data_jsonl/LSVQ_labels_train.jsonl). The expected format is shown below:
 
@@ -155,7 +156,7 @@ For using your own dataset, please format the data as [a JSONL file](https://git
 ...
 ```
 
-## Citation
+## 📚 Citation
 **If you find this code is useful for  your research, please cite**:
 
 ```latex
@@ -167,7 +168,7 @@ For using your own dataset, please format the data as [a JSONL file](https://git
 }
 ```
 
-## Acknowledgement
+## 🤝 Acknowledgement
 
 1. <https://github.com/om-ai-lab/VLM-R1>
 2. <https://github.com/TianheWu/VisualQuality-R1>
