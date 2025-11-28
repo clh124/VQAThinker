@@ -66,7 +66,7 @@ Extensive experiments demonstrate that VQAThinker achieves state-of-the-art perf
 🚀 Release
 - [2025/11/28] 🔥 Released the training code.
 - [2025/11/08] 🔥 VQAThinker is accepted by AAAI 206!
-- [2025/08/11] 🔥 Released the inference code.
+- [2025/08/11] 🔥 Released the inference code and weight.
 
 
 
@@ -126,7 +126,7 @@ Before running, please modify the parameters in `batch_infer.py`:
 3. **json_prefix** — this folder should contain the meta JSON files for the 10 datasets to be evaluated.  
 4. **csv_output_folder** — set this to the folder where you want the results to be saved.  
 
-**Note:** The default `batch_size` is **16**, which requires **at least 48 GB of GPU memory** for testing.  
+⚠️ Note: The default `batch_size` is **16**, which requires **at least 48 GB of GPU memory** for testing.  
 Adjust `batch_size` according to your available GPU memory.
 
 
@@ -136,7 +136,7 @@ Adjust `batch_size` according to your available GPU memory.
 cd train
 ```
 
-First, replace the `modeling_internvl_chat.py` file under the [InternVL3-8B/](https://huggingface.co/OpenGVLab/InternVL3-8B) checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/train/modeling_internvl_chat.py) provided in the `train` directory.
+⚠️ Note: First, replace the `modeling_internvl_chat.py` file under the [InternVL3-8B/](https://huggingface.co/OpenGVLab/InternVL3-8B) checkpoint directory with [the version](https://github.com/clh124/VQAThinker/tree/main/train/modeling_internvl_chat.py) provided in the `train` directory.
 
 ```shell
 bash run_scripts/run_grpo_vqa_internvl.sh
